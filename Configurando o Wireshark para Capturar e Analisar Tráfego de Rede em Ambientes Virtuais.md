@@ -17,7 +17,8 @@
 
 # Garantir conectividade 
 
-![[Screenshot 2024-03-05 025641.png]]
+![Screenshot 2024-03-05 025641](https://github.com/pedrobart/hackingspot/assets/87336174/3026c905-8879-4dd8-8c5b-bda9c31a322f)
+
 
 
 Após  confirmar com recurso ao comando PING 
