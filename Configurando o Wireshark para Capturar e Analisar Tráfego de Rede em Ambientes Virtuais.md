@@ -14,3 +14,7 @@
 ![Screenshot 2024-03-08 035141](https://github.com/pedrobart/hackingspot/assets/87336174/ab740aea-7b78-4422-8d9c-2a1e90fcb8f5)
 
 
+
+# Garantir conectividade 
+
+![[Screenshot 2024-03-04 044649 1.png]]
