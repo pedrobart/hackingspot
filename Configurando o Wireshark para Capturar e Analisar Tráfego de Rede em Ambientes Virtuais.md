@@ -100,8 +100,7 @@ sudo ufw reload
 
 **![Screenshot 2024-03-07 035859](https://github.com/pedrobart/hackingspot/assets/87336174/ba8cedd0-ce83-45e8-908f-bb4265b329ac)****
 
+Instalar ssh
 ```bash
-```
 sudo apt install openssh-server
-```
 ```
