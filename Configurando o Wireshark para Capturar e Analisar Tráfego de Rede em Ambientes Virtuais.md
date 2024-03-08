@@ -129,3 +129,8 @@ Ao analisar o pacote é possível ver em clear text. Veremos abaixo a diferença
 
 Da mesma forma vista anteriormente no exemplo do SSH, o pacote encontra-se encriptado e não dá  para extrair qualquer dado.
 
+
+A importância da criptografia nos serviços de rede é fundamental para garantir a segurança, privacidade e integridade dos dados transmitidos.
+A criptografia protege os dados contra acesso não autorizado durante a transmissão. Ela garante que apenas os destinatários autorizados possam ler e interpretar as informações transmitidas.
+A criptografia ajuda a garantir que os dados não tenham sido alterados ou corrompidos durante a transmissão. Ela usa algoritmos de hashing e assinaturas digitais para verificar se os dados permanecem intactos durante o trânsito.
+A criptografia pode ser usada para autenticar as partes envolvidas na comunicação. Os certificados digitais e os protocolos de autenticação garantem que as partes sejam quem afirmam ser, reduzindo o risco de ataques de spoofing e phishing.
