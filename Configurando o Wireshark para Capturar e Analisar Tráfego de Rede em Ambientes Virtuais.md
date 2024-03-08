@@ -17,4 +17,4 @@
 
 # Garantir conectividade 
 
-![[Screenshot 2024-03-04 044649 1.png]]
+![[Screenshot 2024-03-04 044649.png]]
