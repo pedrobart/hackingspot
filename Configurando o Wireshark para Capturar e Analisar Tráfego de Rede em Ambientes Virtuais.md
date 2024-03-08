@@ -29,3 +29,6 @@
 
 ![Screenshot 2024-03-05 032439](https://github.com/pedrobart/hackingspot/assets/87336174/15051e44-007f-4b36-9e24-6b046335e355)
 
+Conectividade com sucesso e a captura do tráfego com recurso ao filtro ICMP no wireshark.
+
+
