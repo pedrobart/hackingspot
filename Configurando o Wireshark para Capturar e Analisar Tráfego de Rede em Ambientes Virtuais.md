@@ -115,6 +115,7 @@ sudo service ssh status
 
 ![Screenshot 2024-03-07 040944](https://github.com/pedrobart/hackingspot/assets/87336174/dce773aa-d3ae-46b9-a1d1-2e82c50f6ad2)
 
+Como podemos ver na imagem acima, o conteúdo do pacote encontra-se encriptado e não é possível 
 
 ![Screenshot 2024-03-07 043504](https://github.com/pedrobart/hackingspot/assets/87336174/ba7b3bcb-7d4e-4050-9688-40af9bb79fdc)
 
