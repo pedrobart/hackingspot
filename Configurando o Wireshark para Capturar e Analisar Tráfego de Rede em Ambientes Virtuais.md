@@ -11,4 +11,4 @@
 **Abaixo irei mostrar  passo a passo para configurar, capturar e analisar o tráfego de rede em ambientes virtuais, utilizando ferramentas como o Wireshark e outras técnicas de diagnóstico de rede.** 
 
 
-![[Screenshot 2024-03-08 035141.png]]
+a
