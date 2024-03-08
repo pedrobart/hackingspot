@@ -70,6 +70,6 @@ tornando-os facilmente visíveis para qualquer pessoa que esteja capturando o tr
 Instalar o serviço Telnet
 
 ```bash
-sudo apt-get install telnet
+sudo apt install telnet
 
 ```
