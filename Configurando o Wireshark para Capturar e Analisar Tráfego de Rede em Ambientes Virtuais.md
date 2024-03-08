@@ -96,5 +96,5 @@ Após e instalação e configuração acessei através do Kali Linux ao serviço
 
 ![Screenshot 2024-03-07 035452](https://github.com/pedrobart/hackingspot/assets/87336174/a9809a47-0513-4a41-9274-efe9e7c17d9b)
 
-Abaixo podemos ver o conteudo
+Abaixo podemos ver o conteúdo do pacote e ver em texto clear os comandos executados na shell entre as duas máquinas, mais uma vez a falta de encrip
 ![Screenshot 2024-03-07 035859](https://github.com/pedrobart/hackingspot/assets/87336174/ba8cedd0-ce83-45e8-908f-bb4265b329ac)
