@@ -20,3 +20,4 @@
 ![[Screenshot 2024-03-05 025641.png]]
 
 
+Após  confirmar com recurso ao comando PING 
