@@ -60,6 +60,6 @@ Na imagem a seguir, através da minha máquina Host irei conectar-me ao servidor
 E podemos ver o tráfego de dados FTP no wireshark através do sistema kali linux. 
 As credenciais de login que a maquina host (192.168.1.89) utilizou para se conectar ao servidor FTP (Linux Mint - 192.168.1.99)
 
+![Screenshot 2024-03-07 032846](https://github.com/pedrobart/hackingspot/assets/87336174/47ddff13-c96b-4849-8266-1f25bc35cf71)
 
-
-
+No Wireshark, o tráfego FTP (File Transfer Protocol) é frequentemente visível em texto claro devido à maneira como o protocolo FTP opera. 
