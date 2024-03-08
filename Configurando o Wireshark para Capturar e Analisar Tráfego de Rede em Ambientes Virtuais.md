@@ -70,6 +70,10 @@ tornando-os facilmente visíveis para qualquer pessoa que esteja capturando o tr
 Instalar o serviço Telnet
 
 ```bash
-sudo apt install telnet
-
+sudo apt install telnetd
 ```
+Iniciar o serviço Telnet
+```bash
+sudo systemctl status inetd
+```
+Caso seja neces
