@@ -7,4 +7,4 @@
 
 **Follow me in social media**
 [Instagram](https://www.instagram.com/pedrobart_01/)
-[Linkedin](linkedin.com/in/pedrobart](https://www.linkedin.com/in/pedrobart)
+[Linkedin]([linkedin.com/in/pedrobart](https://www.linkedin.com/in/pedrobart))
