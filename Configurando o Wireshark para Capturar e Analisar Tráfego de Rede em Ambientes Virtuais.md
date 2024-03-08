@@ -56,5 +56,5 @@ sudo ufw allow 20/tcp
 sudo ufw allow 21/tcp
 ```
 
-
-Através da minha máquina Host irei conectar-me ao servidor FTP do Linux Mint criado anteriormente, com o programa [Filezilla](https://filezilla-project.org/).
+Na imagem a seguir, através da minha máquina Host irei conectar-me ao servidor FTP do Linux Mint criado anteriormente, com o programa [Filezilla](https://filezilla-project.org/).
+E podemos ver 
