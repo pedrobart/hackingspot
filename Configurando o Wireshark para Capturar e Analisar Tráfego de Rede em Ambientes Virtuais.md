@@ -88,3 +88,5 @@ Reiniciar a firewall
 ```bash
 sudo ufw reload
 ```
+
+Após e instalação e configuração acessei através do Kali Linux ao serviço FTP 
