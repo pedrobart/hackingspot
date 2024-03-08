@@ -57,4 +57,5 @@ sudo ufw allow 21/tcp
 ```
 
 Na imagem a seguir, através da minha máquina Host irei conectar-me ao servidor FTP do Linux Mint criado anteriormente, com o programa [Filezilla](https://filezilla-project.org/).
-E podemos ver o tráfego de dados FTP no wireshark através do sistema kali linux, as credenciais de login no ser
+E podemos ver o tráfego de dados FTP no wireshark através do sistema kali linux. 
+As credenciais de login que a maquina host utilizou para
