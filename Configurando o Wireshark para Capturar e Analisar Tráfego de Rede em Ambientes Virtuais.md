@@ -43,4 +43,11 @@ sudo systemctl start vsftpd
 sudo systemctl enable vsftpd
 ```
 
-Criar um utilizador 
+**Criar um utilizador FTP**
+
+```bash
+sudo useradd -m [username]
+sudo passwd [username]
+```
+
+Caso seja necessário 
