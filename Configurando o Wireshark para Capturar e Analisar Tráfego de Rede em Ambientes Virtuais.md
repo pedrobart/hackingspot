@@ -50,4 +50,8 @@ sudo useradd -m [username]
 sudo passwd [username]
 ```
 
-Caso seja necessário 
+**Caso seja necessário permitir o tráfego na firewall**
+```bash
+sudo ufw allow 20/tcp
+sudo ufw allow 21/tcp
+```
