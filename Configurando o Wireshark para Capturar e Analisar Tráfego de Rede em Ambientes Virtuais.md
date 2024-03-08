@@ -55,7 +55,7 @@ sudo passwd [username]
 sudo ufw allow 20/tcp
 sudo ufw allow 21/tcp
 ```
-
+Reiniciar a firewall 
 ```bash
 sudo ufw reload
 ```
@@ -84,4 +84,7 @@ Caso seja necessário permitir tráfego na firewall
 ```bash
 sudo ufw allow 23/tcp
 ```
-	
+Reiniciar a firewall
+```bash
+sudo ufw reload
+```
