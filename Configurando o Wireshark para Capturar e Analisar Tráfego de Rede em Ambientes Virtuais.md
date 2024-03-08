@@ -63,4 +63,5 @@ As credenciais de login que a maquina host (192.168.1.89) utilizou para se conec
 ![Screenshot 2024-03-07 032846](https://github.com/pedrobart/hackingspot/assets/87336174/47ddff13-c96b-4849-8266-1f25bc35cf71)
 
 No Wireshark, o tráfego FTP (File Transfer Protocol) é frequentemente visível em texto claro devido à maneira como o protocolo FTP opera. 
-O FTP geralmente transmite dados em texto claro, especialmente durante a fase de autenticação e troca de comandos entre o cliente e o servidor FTP. Isso significa que os comandos e respostas FTP são enviados como texto simples, o que torna possível visualizá-los sem decodificação adicional, o quê não é recomendado pois compromete os três pilares da segurança da informação 
+O FTP geralmente transmite dados em texto claro, especialmente durante a fase de autenticação e troca de comandos entre o cliente e o servidor FTP. Isso significa que os comandos e respostas FTP são enviados como texto simples, o que torna possível visualizá-los sem decodificação adicional, o quê não é recomendado pois compromete a confidencialidade, integridade dos dados,
+tornando-os facilmente visíveis para qualquer pessoa que esteja capturando o tráfego.
