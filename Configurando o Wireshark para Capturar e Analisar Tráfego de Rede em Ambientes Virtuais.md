@@ -104,9 +104,12 @@ Instalar ssh
 ```bash
 sudo apt install openssh-server
 ```
-
 Caso seja necessário permitir na firewall
 ```bash
 sudo ufw allow ssh
+```
+Ativar o serviço ssh
+```bash
+sudo service ssh status
 ```
 
