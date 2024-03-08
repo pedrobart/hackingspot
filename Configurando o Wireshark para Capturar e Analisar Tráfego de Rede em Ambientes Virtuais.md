@@ -55,46 +55,48 @@ sudo passwd [username]
 sudo ufw allow 20/tcp
 sudo ufw allow 21/tcp
 ```
-Reiniciar a firewall 
+**Reiniciar a firewall** 
 ```bash
 sudo ufw reload
 ```
 
-Na imagem a seguir, através da minha máquina Host irei conectar-me ao servidor FTP do Linux Mint criado anteriormente, com o programa [Filezilla](https://filezilla-project.org/).
-E podemos ver o tráfego de dados FTP no wireshark através do sistema kali linux. 
-As credenciais de login que a maquina host (192.168.1.89) utilizou para se conectar ao servidor FTP (Linux Mint - 192.168.1.99)
+**Na imagem a seguir, através da minha máquina Host irei conectar-me ao servidor FTP do Linux Mint criado anteriormente, com o programa [Filezilla](https://filezilla-project.org/).**
+**E podemos ver o tráfego de dados FTP no wireshark através do sistema kali linux.** 
+**As credenciais de login que a maquina host (192.168.1.89) utilizou para se conectar ao servidor FTP (Linux Mint - 192.168.1.99)**
 
-![Screenshot 2024-03-07 032846](https://github.com/pedrobart/hackingspot/assets/87336174/47ddff13-c96b-4849-8266-1f25bc35cf71)
+**![Screenshot 2024-03-07 032846](https://github.com/pedrobart/hackingspot/assets/87336174/47ddff13-c96b-4849-8266-1f25bc35cf71)**
 
-No Wireshark, o tráfego FTP (File Transfer Protocol) é frequentemente visível em texto claro devido à maneira como o protocolo FTP opera. 
-O FTP geralmente transmite dados em texto claro, especialmente durante a fase de autenticação e troca de comandos entre o cliente e o servidor FTP. Isso significa que os comandos e respostas FTP são enviados como texto simples, o que torna possível visualizá-los sem decodificação adicional, o quê não é recomendado pois compromete a confidencialidade, integridade dos dados,
-tornando-os facilmente visíveis para qualquer pessoa que esteja capturando o tráfego.
+**No Wireshark, o tráfego FTP (File Transfer Protocol) é frequentemente visível em texto claro devido à maneira como o protocolo FTP opera.** 
+**O FTP geralmente transmite dados em texto claro, especialmente durante a fase de autenticação e troca de comandos entre o cliente e o servidor FTP. Isso significa que os comandos e respostas FTP são enviados como texto simples, o que torna possível visualizá-los sem decodificação adicional, o quê não é recomendado pois compromete a confidencialidade, integridade dos dados,**
+**tornando-os facilmente visíveis para qualquer pessoa que esteja capturando o tráfego.**
 
 
-Instalar o serviço Telnet
+**Instalar o serviço Telnet**
 
 ```bash
 sudo apt install telnetd
 ```
-Iniciar o serviço Telnet
+**Iniciar o serviço Telnet**
 ```bash
 sudo systemctl status inetd
 ```
-Caso seja necessário permitir tráfego na firewall
+**Caso seja necessário permitir tráfego na firewall**
 ```bash
 sudo ufw allow 23/tcp
 ```
-Reiniciar a firewall
+**Reiniciar a firewall**
 ```bash
 sudo ufw reload
 ```
 
 
-Após e instalação e configuração acessei através do Kali Linux ao serviço FTP, fiz o login e utilizei o comando whoami  e mkdir hacked(que cria uma pasta com o nome hacked no ambiente de trabalho do linux mint)
+**Após e instalação e configuração acessei através do Kali Linux ao serviço FTP, fiz o login e utilizei o comando whoami  e mkdir hacked(que cria uma pasta com o nome hacked no ambiente de trabalho do linux mint)**
 
-Após e instalação e configuração acessei através do Kali Linux ao serviço FTP, fiz o login e utilizei o comando whoami  e mkdir hacked.
+**Após e instalação e configuração acessei através do Kali Linux ao serviço FTP, fiz o login e utilizei o comando whoami  e mkdir hacked.**
 
-![Screenshot 2024-03-07 035452](https://github.com/pedrobart/hackingspot/assets/87336174/a9809a47-0513-4a41-9274-efe9e7c17d9b)
+**![Screenshot 2024-03-07 035452](https://github.com/pedrobart/hackingspot/assets/87336174/a9809a47-0513-4a41-9274-efe9e7c17d9b)**
 
-Abaixo podemos ver o conteúdo do pacote e ver em texto clear os comandos executados na shell entre as duas máquinas, mais uma vez a falta de encrip
-![Screenshot 2024-03-07 035859](https://github.com/pedrobart/hackingspot/assets/87336174/ba8cedd0-ce83-45e8-908f-bb4265b329ac)
+**Abaixo podemos ver o conteúdo do pacote e ver em texto clear os comandos executados na shell entre as duas máquinas, mais uma vez a falta de encriptação.**
+
+**![Screenshot 2024-03-07 035859](https://github.com/pedrobart/hackingspot/assets/87336174/ba8cedd0-ce83-45e8-908f-bb4265b329ac)****
+**
