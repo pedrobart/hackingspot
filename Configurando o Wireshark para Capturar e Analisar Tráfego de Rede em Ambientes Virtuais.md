@@ -127,5 +127,5 @@ Ao analisar o pacote é possível ver em clear text. Veremos abaixo a diferença
 
 ![Screenshot 2024-03-07 044112](https://github.com/pedrobart/hackingspot/assets/87336174/82b2fdb6-1306-4930-8947-366642b8a52e)
 
-Da mesma forma vista anteriormente no exemplo do SSH, o pacote encontra-se encriptado e não e' possivel extrair qualquer dado.
+Da mesma forma vista anteriormente no exemplo do SSH, o pacote encontra-se encriptado e não dá  para extrair qualquer dado.
 
