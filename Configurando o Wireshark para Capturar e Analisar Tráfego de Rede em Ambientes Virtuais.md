@@ -56,6 +56,10 @@ sudo ufw allow 20/tcp
 sudo ufw allow 21/tcp
 ```
 
+```bash
+sudo ufw reload
+```
+
 Na imagem a seguir, através da minha máquina Host irei conectar-me ao servidor FTP do Linux Mint criado anteriormente, com o programa [Filezilla](https://filezilla-project.org/).
 E podemos ver o tráfego de dados FTP no wireshark através do sistema kali linux. 
 As credenciais de login que a maquina host (192.168.1.89) utilizou para se conectar ao servidor FTP (Linux Mint - 192.168.1.99)
@@ -76,4 +80,8 @@ Iniciar o serviço Telnet
 ```bash
 sudo systemctl status inetd
 ```
-Caso seja neces
+Caso seja necessário permitir tráfego na firewall
+```bash
+sudo ufw allow 23/tcp
+```
+	
