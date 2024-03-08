@@ -92,3 +92,4 @@ sudo ufw reload
 Após e instalação e configuração acessei através do Kali Linux ao serviço FTP, fiz o login e utilizei o comando whoami  e mkdir hacked.
 ![Screenshot 2024-03-07 035452](https://github.com/pedrobart/hackingspot/assets/87336174/a9809a47-0513-4a41-9274-efe9e7c17d9b)
 
+![Screenshot 2024-03-07 035859](https://github.com/pedrobart/hackingspot/assets/87336174/ba8cedd0-ce83-45e8-908f-bb4265b329ac)
