@@ -23,11 +23,9 @@
 
 **Após  confirmar com recurso ao comando [PING](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping),  é possível confirmar conexão entre a maquina Kioptrix com o Kali linux, e capturar o tráfego com o filtro [ICMP](https://networklessons.com/cisco/ccie-routing-switching-written/icmp-internet-control-message-protocol) no wireshark.**
 
-<<<<<<< HEAD
+
+
 **Irei fazer o mesmo processo mas com a máquina Linux Mint.****
-**
-=======
-Irei fazer o mesmo processo mas com a máquina Linux Mint.
+
 ![Screenshot 2024-03-05 032439](https://github.com/pedrobart/hackingspot/assets/87336174/15051e44-007f-4b36-9e24-6b046335e355)
->>>>>>> origin/main
 
