@@ -113,3 +113,16 @@ Ativar o serviço ssh
 sudo service ssh status
 ```
 
+![Screenshot 2024-03-07 040944](https://github.com/pedrobart/hackingspot/assets/87336174/dce773aa-d3ae-46b9-a1d1-2e82c50f6ad2)
+
+
+![Screenshot 2024-03-07 043504](https://github.com/pedrobart/hackingspot/assets/87336174/ba7b3bcb-7d4e-4050-9688-40af9bb79fdc)
+
+
+![Screenshot 2024-03-07 043544](https://github.com/pedrobart/hackingspot/assets/87336174/e9c7cc46-f5f1-45d1-a03b-c150423ecd74)
+
+
+![Screenshot 2024-03-07 044112](https://github.com/pedrobart/hackingspot/assets/87336174/82b2fdb6-1306-4930-8947-366642b8a52e)
+
+
+
