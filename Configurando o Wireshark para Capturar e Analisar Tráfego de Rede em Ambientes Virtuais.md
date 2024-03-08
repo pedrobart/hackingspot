@@ -8,4 +8,7 @@
 
 **Finalmente, abordei questões específicas, como a validação da existência de serviços SSH e Telnet na máquina, a instalação de serviços, a análise de fluxos de dados de conexões Telnet e SSH, e a configuração de serviços em máquinas Linux Mint.**
 
-**Abaixo irei mostrar  passo a passo para configurar, capturar e analisar o tráfego de rede em ambientes virtuais, utilizando ferramentas como o Wireshark e outras técnicas de diagnóstico de rede.**
+**Abaixo irei mostrar  passo a passo para configurar, capturar e analisar o tráfego de rede em ambientes virtuais, utilizando ferramentas como o Wireshark e outras técnicas de diagnóstico de rede.** 
+
+
+![[Screenshot 2024-03-08 035141.png]]
