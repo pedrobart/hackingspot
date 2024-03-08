@@ -37,6 +37,10 @@
 ```bash
 sudo apt install vsftpd
 ```
-
+**Iniciar o serviço** 
 ```bash
+sudo systemctl start vsftpd 
+sudo systemctl enable vsftpd
 ```
+
+Criar um utilizador 
