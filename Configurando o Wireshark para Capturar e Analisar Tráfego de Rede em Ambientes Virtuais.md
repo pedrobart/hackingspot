@@ -21,4 +21,4 @@
 
 
 
-Após  confirmar com recurso ao comando [PING](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping),  é possível confirmar conexão entre a maquina Kioptrix com o A
+Após  confirmar com recurso ao comando [PING](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping),  é possível confirmar conexão entre a maquina Kioptrix com o Kali linux, e capturar o tráfego com o filtro [ICMP] no wireshark.
