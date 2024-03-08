@@ -119,9 +119,11 @@ Como podemos ver na imagem acima, o conteúdo do pacote encontra-se encriptado e
 
 ![Screenshot 2024-03-07 043504](https://github.com/pedrobart/hackingspot/assets/87336174/ba7b3bcb-7d4e-4050-9688-40af9bb79fdc)
 
+Ao acessar o website com o protocolo http podemos ver na imagem acima o tráfego HTTP no wireshark
 
 ![Screenshot 2024-03-07 043544](https://github.com/pedrobart/hackingspot/assets/87336174/e9c7cc46-f5f1-45d1-a03b-c150423ecd74)
 
+Ao analisar o pacote é possível ver em text clear.
 
 ![Screenshot 2024-03-07 044112](https://github.com/pedrobart/hackingspot/assets/87336174/82b2fdb6-1306-4930-8947-366642b8a52e)
 
