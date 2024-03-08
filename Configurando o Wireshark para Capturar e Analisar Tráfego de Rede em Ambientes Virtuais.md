@@ -100,37 +100,43 @@ sudo ufw reload
 
 **![Screenshot 2024-03-07 035859](https://github.com/pedrobart/hackingspot/assets/87336174/ba8cedd0-ce83-45e8-908f-bb4265b329ac)****
 
-Instalar ssh
+**Instalar ssh**
 ```bash
 sudo apt install openssh-server
 ```
-Caso seja necessário permitir na firewall
+**Caso seja necessário permitir na firewall**
 ```bash
 sudo ufw allow ssh
 ```
-Ativar o serviço ssh
+**Ativar o serviço ssh**
 ```bash
 sudo service ssh status
 ```
 
-![Screenshot 2024-03-07 040944](https://github.com/pedrobart/hackingspot/assets/87336174/dce773aa-d3ae-46b9-a1d1-2e82c50f6ad2)
+**![Screenshot 2024-03-07 040944](https://github.com/pedrobart/hackingspot/assets/87336174/dce773aa-d3ae-46b9-a1d1-2e82c50f6ad2)**
 
-Como podemos ver na imagem acima, o conteúdo do pacote encontra-se encriptado e não é possível extrair qualquer dado. 
+**Como podemos ver na imagem acima, o conteúdo do pacote encontra-se encriptado e não é possível extrair qualquer dado.** 
 
-![Screenshot 2024-03-07 043504](https://github.com/pedrobart/hackingspot/assets/87336174/ba7b3bcb-7d4e-4050-9688-40af9bb79fdc)
+**![Screenshot 2024-03-07 043504](https://github.com/pedrobart/hackingspot/assets/87336174/ba7b3bcb-7d4e-4050-9688-40af9bb79fdc)**
 
-Ao acessar o website com o protocolo http podemos ver na imagem acima o tráfego HTTP no wireshark
+**Ao acessar o website com o protocolo http podemos ver na imagem acima o tráfego HTTP no wireshark**
 
-![Screenshot 2024-03-07 043544](https://github.com/pedrobart/hackingspot/assets/87336174/e9c7cc46-f5f1-45d1-a03b-c150423ecd74)
+**![Screenshot 2024-03-07 043544](https://github.com/pedrobart/hackingspot/assets/87336174/e9c7cc46-f5f1-45d1-a03b-c150423ecd74)**
 
-Ao analisar o pacote é possível ver em clear text. Veremos abaixo a diferença no protocolo HTTPS.
+**Ao analisar o pacote é possível ver em clear text. Veremos abaixo a diferença no protocolo HTTPS.**
 
-![Screenshot 2024-03-07 044112](https://github.com/pedrobart/hackingspot/assets/87336174/82b2fdb6-1306-4930-8947-366642b8a52e)
+**![Screenshot 2024-03-07 044112](https://github.com/pedrobart/hackingspot/assets/87336174/82b2fdb6-1306-4930-8947-366642b8a52e)**
 
-Da mesma forma vista anteriormente no exemplo do SSH, o pacote encontra-se encriptado e não dá  para extrair qualquer dado.
+**Da mesma forma vista anteriormente no exemplo do SSH, o pacote encontra-se encriptado e não dá  para extrair qualquer dado.**
 
+# **conclusão** 
 
-A importância da criptografia nos serviços de rede é fundamental para garantir a segurança, privacidade e integridade dos dados transmitidos.
-A criptografia protege os dados contra acesso não autorizado durante a transmissão. Ela garante que apenas os destinatários autorizados possam ler e interpretar as informações transmitidas.
-A criptografia ajuda a garantir que os dados não tenham sido alterados ou corrompidos durante a transmissão. Ela usa algoritmos de hashing e assinaturas digitais para verificar se os dados permanecem intactos durante o trânsito.
-A criptografia pode ser usada para autenticar as partes envolvidas na comunicação. Os certificados digitais e os protocolos de autenticação garantem que as partes sejam quem afirmam ser, reduzindo o risco de ataques de spoofing e phishing.
+**A importância da criptografia nos serviços de rede é fundamental para garantir a segurança, privacidade e integridade dos dados transmitidos.**
+
+**A criptografia protege os dados contra acesso não autorizado durante a transmissão. Ela garante que apenas os destinatários autorizados possam ler e interpretar as informações transmitidas.**
+**A criptografia ajuda a garantir que os dados não tenham sido alterados ou corrompidos durante a transmissão. Ela usa algoritmos de hashing e assinaturas digitais para verificar se os dados permanecem intactos durante o trânsito.**
+
+**A criptografia pode ser usada para autenticar as partes envolvidas na comunicação. Os certificados digitais e os protocolos de autenticação garantem que as partes sejam quem afirmam ser, reduzindo o risco de ataques de spoofing e phishing.**
+**Sem criptografia, os dados transmitidos pela rede podem ser facilmente interceptados e lidos por invasores mal-intencionados. A criptografia protege contra esse tipo de interceptação, garantindo que apenas as partes autorizadas tenham acesso aos dados.**
+
+**Em resumo, a criptografia desempenha um papel fundamental na segurança da comunicação pela rede, protegendo os dados contra acesso não autorizado, alteração e interceptação. É essencial implementar protocolos e tecnologias de criptografia adequados em todos os serviços de rede para garantir a segurança e a privacidade dos dados transmitidos.**
