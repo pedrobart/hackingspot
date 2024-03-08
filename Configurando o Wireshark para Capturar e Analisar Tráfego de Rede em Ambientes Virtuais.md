@@ -11,18 +11,19 @@
 **Abaixo irei mostrar  passo a passo para configurar, capturar e analisar o tráfego de rede em ambientes virtuais, utilizando ferramentas como o Wireshark e outras técnicas de diagnóstico de rede.** 
 
 
-![Screenshot 2024-03-08 035141](https://github.com/pedrobart/hackingspot/assets/87336174/ab740aea-7b78-4422-8d9c-2a1e90fcb8f5)
+**![Screenshot 2024-03-08 035141](https://github.com/pedrobart/hackingspot/assets/87336174/ab740aea-7b78-4422-8d9c-2a1e90fcb8f5)**
 
 
 
-# Garantir conectividade 
+# **Garantir conectividade** 
 
-![Screenshot 2024-03-05 025641](https://github.com/pedrobart/hackingspot/assets/87336174/3026c905-8879-4dd8-8c5b-bda9c31a322f)
+**![Screenshot 2024-03-05 025641](https://github.com/pedrobart/hackingspot/assets/87336174/3026c905-8879-4dd8-8c5b-bda9c31a322f)**
 
 
 
-Após  confirmar com recurso ao comando [PING](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping),  é possível confirmar conexão entre a maquina Kioptrix com o Kali linux, e capturar o tráfego com o filtro [ICMP](https://networklessons.com/cisco/ccie-routing-switching-written/icmp-internet-control-message-protocol) no wireshark.
+**Após  confirmar com recurso ao comando [PING](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping),  é possível confirmar conexão entre a maquina Kioptrix com o Kali linux, e capturar o tráfego com o filtro [ICMP](https://networklessons.com/cisco/ccie-routing-switching-written/icmp-internet-control-message-protocol) no wireshark.**
 
-Irei fazer o mesmo processo mas com a máquina Linux Mint.
+**Irei fazer o mesmo processo mas com a máquina Linux Mint.****
+**
 
 ![[Screenshot 2024-03-05 032439.png]]
