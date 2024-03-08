@@ -17,3 +17,6 @@
 
 # Garantir conectividade 
 
+![[Screenshot 2024-03-05 025641.png]]
+
+
