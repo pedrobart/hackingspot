@@ -123,9 +123,9 @@ Ao acessar o website com o protocolo http podemos ver na imagem acima o tráfego
 
 ![Screenshot 2024-03-07 043544](https://github.com/pedrobart/hackingspot/assets/87336174/e9c7cc46-f5f1-45d1-a03b-c150423ecd74)
 
-Ao analisar o pacote é possível ver em text clear.
+Ao analisar o pacote é possível ver em clear text. Veremos abaixo a diferença no protocolo HTTPS.
 
 ![Screenshot 2024-03-07 044112](https://github.com/pedrobart/hackingspot/assets/87336174/82b2fdb6-1306-4930-8947-366642b8a52e)
 
-
+Da mesma forma vista anteriormente no exemplo do SSH, o pacote encontra-se encriptado e não e' possivel extrair qualquer dado.
 
