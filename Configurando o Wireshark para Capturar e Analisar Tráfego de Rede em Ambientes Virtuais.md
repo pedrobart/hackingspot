@@ -89,4 +89,4 @@ Reiniciar a firewall
 sudo ufw reload
 ```
 
-Após e instalação e configuração acessei através do Kali Linux ao serviço FTP, fiz o login e utilizei o comando whoami  e mkdir hacked.
+Após e instalação e configuração acessei através do Kali Linux ao serviço FTP, fiz o login e utilizei o comando whoami  e mkdir hacked(que cria uma pasta com o nome hacked no ambiente de trabalho do linux mint)
