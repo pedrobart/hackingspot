@@ -503,5 +503,12 @@ Exemplos
 
 ## Interpretação 
 
-Deve ler-se “Um Professor leciona obrigatoriamente 1 ou mais Disciplinas e uma Disciplina é lecionada no mínimo por 1 ou por mais professores”
+- **Deve ler-se “Um Professor leciona obrigatoriamente 1 ou mais Disciplinas e uma Disciplina é lecionada no mínimo por 1 ou por mais professores”**
+
+- **De Professor para Disciplina existe um relacionamento com participação obrigatória e cardinalidade N.**
+
+- **De Disciplina para Professor existe também um relacionamento com participação obrigatória e com cardinalidade M.**
+
+***
+# Modelo ER – Tipos de Relacionamentos
 
