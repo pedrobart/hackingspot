@@ -372,7 +372,13 @@ Exemplos
 
 - **Ocorre sobretudo nas fases de planeamento, definição do sistema e levantamento de requisitos e podem ser utilizadas, por exemplo, as técnicas:**
 	- **Entrevistas;**
-- **Questionários;**
-- **Observação;**
-- **Pesquisa;**
-- **Verificação de documentação.**
+	- **Questionários;**
+	- **Observação;**
+	- **Pesquisa;**
+	- **Verificação de documentação.**
+***
+
+# Ciclo de Vida de um SBD – Modelação Conceptual
+
+Construção de um modelo que responda aos requisitos do SBD.
+
