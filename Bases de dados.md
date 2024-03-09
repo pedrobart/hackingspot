@@ -433,3 +433,8 @@ Exemplos
 - **Para se estabelecerem ligações, são utilizadas linhas.**
 - **A representação gráfica designa-se por Diagrama E/R.**
 
+***
+# Modelo E/R - Entidades
+
+### Entidade
+
