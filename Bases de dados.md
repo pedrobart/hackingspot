@@ -389,3 +389,8 @@ Exemplos
 
 # Modelação Conceptual utilizando a UML
 
+***
+
+## Diagramas de Classes e de Estados
+
+![[Pasted image 20240309014847.png]]
