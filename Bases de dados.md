@@ -325,10 +325,10 @@ Exemplos
 # Ciclo de Vida dos Sistemas de Base de Dados
 
 
-| Principais Problemas dos Projetos: | Principais Motivos do Insucesso: |
-| ---------------------------------- | -------------------------------- |
-| Atrasos                            |                                  |
-| Acima do orçamento                 |                                  |
-| Pouco confiáveis                   |                                  |
-| Difíceis de manter                 |                                  |
-|                                    |                                  |
+| Principais Problemas dos Projetos: | Principais Motivos do Insucesso:                        |
+| ---------------------------------- | ------------------------------------------------------- |
+| Atrasos                            | Falta de uma completa especificação <br>de requisitos   |
+| Acima do orçamento                 | Inexistência de metodologia adequada ao desenvolvimento |
+| Pouco confiáveis                   |                                                         |
+| Difíceis de manter                 |                                                         |
+| Baixo desempenho                   |                                                         |
