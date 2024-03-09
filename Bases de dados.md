@@ -31,13 +31,11 @@
 
 
 # Sistemas baseados em ficheiros
-![[Pasted image 20240308190348 1.![Pasted image 20240308190348 1](https://github.com/pedrobart/hackingspot/assets/87336174/83e9204a-3ab7-4e9f-8b92-639e7ef0f27f)
-png]]
-]]    
+  ![Pasted image 20240308190348 1](https://github.com/pedrobart/hackingspot/assets/87336174/1a1bc5d4-c969-405b-a7fa-8602d511d9f2)
+
 # Sistemas de bases de dados
+![Pasted image 20240308190433 1](https://github.com/pedrobart/hackingspot/assets/87336174/b81ccee5-0e0f-481a-bbce-6a466bf58987)
 
-
-![[Pasted image 20240308190433 1.png]]
 ***
 # **Abordagem baseada em ficheiros**
 
@@ -76,8 +74,9 @@ png]]
 
 
 **Resolve as limitações dos sistemas baseados em ficheiros.**
+![Pasted image 20240308192208 1](https://github.com/pedrobart/hackingspot/assets/87336174/44d07ed7-1482-40d8-97a7-4f21e75b8c2a)
 
-![[Pasted image 20240308192208.png]]
+
 
 # Conceitos básicos 
 
@@ -149,7 +148,8 @@ png]]
 # Modelo relacional
 
 
-![[Pasted image 20240308203438 1.png]]
+![Pasted image 20240308203438 1](https://github.com/pedrobart/hackingspot/assets/87336174/4bf4870c-5837-45ba-9de1-9599b5b83699)
+
 **Os dados são separados por entidades, de acordo com o assunto, e registados como atributos dessas entidades.** 
 
 **Por sua vez, as entidades estabelecem relacionamentos entre si.** 
@@ -172,7 +172,8 @@ Um relacionamento é uma associação entre entidades.**
 
 - NoSQL permite ter grandes volumes de dados não estruturados e estruturá-los mais tarde.**
 
-![[Pasted image 20240308204437 1.png]]
+![Pasted image 20240308204437 1](https://github.com/pedrobart/hackingspot/assets/87336174/51d35277-d33f-4138-b84d-f5c7e026546e)
+
 
 ***
 # Modelo NÃO relacional
@@ -191,7 +192,8 @@ Um relacionamento é uma associação entre entidades.**
 - **Os valores podem ser armazenados como collections, associative arrays, and dictionaries, etc.** 
 
 **Exemplos: [Redis](https://aws.amazon.com/pt/elasticache/what-is-redis/), [Memcached](https://aws.amazon.com/pt/memcached/)**
-![[Pasted image 20240308205912 1.png]]
+![Pasted image 20240308205912 1](https://github.com/pedrobart/hackingspot/assets/87336174/c78eab71-eb8f-463d-b029-e7a506a01437)
+
 
 
 ***
@@ -227,7 +229,8 @@ Um relacionamento é uma associação entre entidades.**
 [Apache Cassandra](https://cassandra.apache.org/_/index.html), [Hadoop Hbase](https://hbase.apache.org/), [HyperTable](https://hypertable.com/documentation/)**
 
 
-![[Pasted image 20240309001622 1.png]]
+![Pasted image 20240309001622 1](https://github.com/pedrobart/hackingspot/assets/87336174/e875058a-77f8-41af-a849-21fbe7625e6b)
+
 ***
 # Modelo NÃO relacional
 
@@ -243,7 +246,7 @@ Um relacionamento é uma associação entre entidades.**
 **
 ### Exemplos 
 **[FlockDB](https://github.com/twitter-archive/flockdb), [HyperGraphDB](https://hypergraphdb.org/), [Neo4j](https://neo4j.com/docs/)**
-![[Pasted image 20240309002337 1.png]]
+![Pasted image 20240309002337 1](https://github.com/pedrobart/hackingspot/assets/87336174/2711b36e-b2fd-4b43-bfac-7473420bceac)
 
 ***
 # Modelo NÃO relacional
@@ -258,7 +261,7 @@ Um relacionamento é uma associação entre entidades.**
 
 **Exemplos** 
 **[PostGIS](https://postgis.net/), [Oracle Spatial](https://www.oracle.com/database/spatial/)**
-![[Pasted image 20240309003038 1.png]]
+![Pasted image 20240309003038 1](https://github.com/pedrobart/hackingspot/assets/87336174/304448dd-3481-44e5-9f7c-1f8d1ae446ce)
 
 ***
 # Modelo NÃO relacional
@@ -271,7 +274,8 @@ Um relacionamento é uma associação entre entidades.**
 
 **Exemplos** 
 **[db4o](http://www.db4o.com/), [NEO](https://neo.nexedi.com/), [Versant](http://www.versant.com/)**
-![[Pasted image 20240309003312 1.png]]
+![Pasted image 20240309003312 1](https://github.com/pedrobart/hackingspot/assets/87336174/e0cf7379-5c74-4d3a-82f0-69c3b0df5503)
+
 
 ***
 # Modelo NÃO relacional
@@ -286,4 +290,5 @@ Exemplos
 [Sesame](https://www.lanl.gov/org/ddste/aldsc/theoretical/physics-chemistry-materials/sesame-database.php), [Jena](https://jena.apache.org/), [Virtuoso](https://virtuoso.openlinksw.com/), [Allegro Graph](https://allegrograph.com/)
 ***
 # Relacional versus Não Relacional
-![[Pasted image 20240309004204 1.png]]
+![Pasted image 20240309004204 1](https://github.com/pedrobart/hackingspot/assets/87336174/8b035ff3-3127-4239-b61b-3eb92abdd671)
+
