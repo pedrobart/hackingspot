@@ -292,3 +292,13 @@ Exemplos
 # Relacional versus Não Relacional
 ![Pasted image 20240309004204 1](https://github.com/pedrobart/hackingspot/assets/87336174/8b035ff3-3127-4239-b61b-3eb92abdd671)
 
+***
+# Tópico 2
+
+Ciclo de Vida dos Sistemas de Base de Dados
+
+
+- Metodologia de construção;
+- Entidades, Relacionamentos e Atributos;
+- Diagramas E/R;
+- Notação Chen;
