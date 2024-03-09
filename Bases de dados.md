@@ -340,4 +340,16 @@ Exemplos
 - **Esclarecer o propósito e o contexto do projeto de BD e fornecer o caminho mais claro para a criação eficiente e eficaz do sistema de BD necessário.**
  
  - **Que cada objetivo identifique uma determinada tarefa que a BD deve apoiar.**
+
 - **Conhecer informação adicional que especifica os trabalhos a serem realizados e os recursos a serem utilizados.**
+***
+# Ciclo de Vida de um SBD – Definição do Sistema
+
+Descreve âmbito e os limites dos diferentes tipos de utilizador;
+ As visões de utilizador definem o que é exigido de um SBD a partir
+da perspetiva de:
+- Um papel de trabalho específico (ex.: gerente ou supervisor)
+- Área aplicacional na empresa (ex.: marketing, pessoal, … ).
+ Identificar as visões de utilizador ajuda a garantir que não são
+esquecidos utilizadores da BD no desenvolvimento dos requisitos
+para novo sistema.
