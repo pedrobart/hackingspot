@@ -368,5 +368,11 @@ Exemplos
 ***
 # Pesquisa de Factos
 
-Os factos retratam a realidade de uma organização como, por exemplo, a terminologia, as restrições e os requisitos.
+- **Os factos retratam a realidade de uma organização como, por exemplo, a terminologia, as restrições e os requisitos.**
 
+- **Ocorre sobretudo nas fases de planeamento, definição do sistema e levantamento de requisitos e podem ser utilizadas, por exemplo, as técnicas:**
+	- **Entrevistas;**
+- **Questionários;**
+- **Observação;**
+- **Pesquisa;**
+- **Verificação de documentação.**
