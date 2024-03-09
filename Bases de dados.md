@@ -485,3 +485,9 @@ Exemplos
 
 **É uma entidade que pode existir por si só, ou seja, não depende da existência de qualquer outra entidade.**
 
+![[Pasted image 20240309020402.png]]
+
+### Entidade Fraca
+
+- **É uma entidade que depende da existência de uma entidade forte.**
+- **Precisa de atributos de entidades fortes para ser totalmente caracterizada.**
