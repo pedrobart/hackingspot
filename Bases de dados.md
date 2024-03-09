@@ -477,3 +477,11 @@ Exemplos
 
 ==NOTAÇÃO  CHEN:==
 ![[Pasted image 20240309020231.png]]
+
+***
+# Modelo ER – Tipos de Entidades
+
+### Entidade Forte
+
+**É uma entidade que pode existir por si só, ou seja, não depende da existência de qualquer outra entidade.**
+
