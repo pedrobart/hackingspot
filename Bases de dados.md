@@ -352,3 +352,13 @@ Exemplos
 	- **Área aplicacional na empresa (ex.: marketing, pessoal, … ).**
 
  - **Identificar as visões de utilizador ajuda a garantir que não são esquecidos utilizadores da BD no desenvolvimento dos requisitos para novo sistema.**
+***
+# Ciclo de Vida de um SBD – Levantamento de Requisitos
+
+Principais requisitos:
+- Uma descrição dos dados utilizados ou gerados;
+- Detalhes de como os dados são utilizados e gerados;
+- Requisitos de rede e de acesso;
+- Requisitos de desempenho;
+Estes requisitos são descritos em documentos que representam
+especificação de requisitos;
