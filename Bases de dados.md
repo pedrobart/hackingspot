@@ -347,8 +347,7 @@ Exemplos
 
 - **Descrever âmbito e os limites dos diferentes tipos de utilizador;**
 
-- **As visões de utilizador definem o que é exigido de um SBD a partir**
-- **da perspectiva de:**
+- **As visões de utilizador definem o que é exigido de um SBD a partir da perspectiva de:**
 	- **Um papel de trabalho específico (ex.: gerente ou supervisor)**
 	- **Área aplicacional na empresa (ex.: marketing, pessoal, … ).**
 
