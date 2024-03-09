@@ -31,7 +31,8 @@
 
 
 # Sistemas baseados em ficheiros
-![[Pasted image 20240308190348 1.png]]
+![[Pasted image 20240308190348 1.![Pasted image 20240308190348 1](https://github.com/pedrobart/hackingspot/assets/87336174/83e9204a-3ab7-4e9f-8b92-639e7ef0f27f)
+png]]
 ]]    
 # Sistemas de bases de dados
 
