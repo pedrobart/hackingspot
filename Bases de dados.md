@@ -329,6 +329,6 @@ Exemplos
 | ---------------------------------- | ------------------------------------------------------- |
 | Atrasos                            | Falta de uma completa especificação <br>de requisitos   |
 | Acima do orçamento                 | Inexistência de metodologia adequada ao desenvolvimento |
-| Pouco confiáveis                   |                                                         |
+| Pouco confiáveis                   | Fraca decomposição do projeto em componentes geriveis   |
 | Difíceis de manter                 |                                                         |
 | Baixo desempenho                   |                                                         |
