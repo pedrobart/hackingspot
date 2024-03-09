@@ -400,16 +400,24 @@ Exemplos
 
 ![[Pasted image 20240309015000.png]]
 
-A modelação Entidade-Relacionamento é um modo de comunicação não técnico e isento de ambiguidades, que permite uma compreensão precisa dos dados e de como eles são usados.
+- A modelação Entidade-Relacionamento é um modo de comunicação não técnico e isento de ambiguidades, que permite uma compreensão precisa dos dados e de como eles são usados.
 
-Um modelo E/R é uma representação abstrata da estrutura da BD a ser criada.
+- Um modelo E/R é uma representação abstrata da estrutura da BD a ser criada.
 
-É utilizado para a Modelação Conceptual do ciclo de
-desenvolvimento de uma base de dados.
+- É utilizado para a Modelação Conceptual do ciclo de
+- desenvolvimento de uma base de dados.
 
-É constituído por entidades, atributos e relacionamentos.
+- É constituído por entidades, atributos e relacionamentos.
 
-Serve para apresentar e validar a estrutura da BD.
+- Serve para apresentar e validar a estrutura da BD.
 
 ### Metodologia
 
+- Identificar as entidades.
+- Identificar os relacionamentos.
+- Identificar os atributos e associá-los com entidades/relacionamentos.
+- Determinar o domínio dos atributos.
+- Determinar os atributos candidatos a chaves primárias.
+- Verificar a redundância do modelo.
+- Validar o modelo conceptual com as transações dos utilizadores.
+- Rever o modelo conceptual com os utilizadores.
