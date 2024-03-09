@@ -438,3 +438,13 @@ Exemplos
 
 ### Entidade
 
+- **Representa um conjunto de objetos com as mesmas propriedades. Por exemplo, a entidade “Produto” contém vários produtos distintos**
+
+- **É um objeto distinto de outros e com informação relevante para ser armazenada numa BD**
+
+- **Pode representar um objeto físico ou conceptual;**
+
+- **São caracterizadas através de um nome e de uma lista de atributos****
+**
+
+
