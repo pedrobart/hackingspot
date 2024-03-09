@@ -491,3 +491,10 @@ Exemplos
 
 - **É uma entidade que depende da existência de uma entidade forte.**
 - **Precisa de atributos de entidades fortes para ser totalmente caracterizada.**
+![[Pasted image 20240309020503.png]]
+
+
+## Exemplo 
+
+![[Pasted image 20240309020537.png]]
+
