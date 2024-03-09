@@ -398,3 +398,12 @@ Exemplos
 ***
 # Modelação Conceptual utilizando o Modelo E/R
 
+![[Pasted image 20240309015000.png]]
+
+A modelação Entidade-Relacionamento é um modo de comunicação não técnico e isento de ambiguidades, que permite uma compreensão precisa dos dados e de como eles são usados.
+
+Um modelo E/R é uma representação abstrata da estrutura da BD a ser criada.
+
+É utilizado para a Modelação Conceptual do ciclo de
+desenvolvimento de uma base de dados.
+
