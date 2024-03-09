@@ -355,10 +355,18 @@ Exemplos
 ***
 # Ciclo de Vida de um SBD – Levantamento de Requisitos
 
-Principais requisitos:
-- Uma descrição dos dados utilizados ou gerados;
-- Detalhes de como os dados são utilizados e gerados;
-- Requisitos de rede e de acesso;
-- Requisitos de desempenho;
-Estes requisitos são descritos em documentos que representam
-especificação de requisitos;
+**Principais requisitos:**
+
+- **Uma descrição dos dados utilizados ou gerados;**
+- **Detalhes de como os dados são utilizados e gerados;**
+- **Requisitos de rede e de acesso;**
+- **Requisitos de desempenho;**
+
+- **Estes requisitos são descritos em documentos que representam especificação de requisitos;**
+
+- **Podem ser utilizadas técnicas de pesquisa de factos.**
+***
+# Pesquisa de Factos
+
+Os factos retratam a realidade de uma organização como, por exemplo, a terminologia, as restrições e os requisitos.
+
