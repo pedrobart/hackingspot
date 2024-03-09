@@ -425,5 +425,11 @@ Exemplos
 ***
 # Modelo E/R
 
+	
 ### diagrama E/R
+
+- **O modelo E/R foi inicialmente criado pelo Dr. Peter Chen**
+- **Na sequência desse modelo foi desenvolvida a notação Chen, em que as entidades são representadas por retângulos, os relacionamentos por losangos e os atributos por elipses**
+- **Para se estabelecerem ligações, são utilizadas linhas.**
+- **A representação gráfica designa-se por Diagrama E/R.**
 
