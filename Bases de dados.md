@@ -332,3 +332,15 @@ Exemplos
 | Pouco confiáveis                   | Fraca decomposição do projeto em componentes geriveis   |
 | Difíceis de manter                 |                                                         |
 | Baixo desempenho                   |                                                         |
+***
+# Ciclo de Vida de um SBD – Planeamento
+
+**==É importante:==**
+
+- **Esclarecer o propósito e o contexto do projeto de BD e fornecer o**
+- **caminho mais claro para a criação eficiente e eficaz do sistema de BD**
+- **necessário.**
+ - **Que cada objetivo identifique uma determinada tarefa que a BD deve**
+- **apoiar.**
+- **Conhecer informação adicional que especifica os trabalhos a serem**
+- **realizados e os recursos a serem utilizados.**
