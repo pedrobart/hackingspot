@@ -394,3 +394,7 @@ Exemplos
 ## Diagramas de Classes e de Estados
 
 ![[Pasted image 20240309014847.png]]
+
+***
+# Modelação Conceptual utilizando o Modelo E/R
+
