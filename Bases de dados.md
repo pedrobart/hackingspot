@@ -295,10 +295,9 @@ Exemplos
 ***
 # Tópico 2
 
-Ciclo de Vida dos Sistemas de Base de Dados
-
-
-- Metodologia de construção;
-- Entidades, Relacionamentos e Atributos;
-- Diagramas E/R;
-- Notação Chen;
+- **Ciclo de Vida dos Sistemas de Base de Dados**
+- **Modelo Entidade-Relacionamentos:**
+	- **Metodologia de construção;**
+	- **Entidades, Relacionamentos e Atributos;**
+	- **Diagramas E/R;**
+	- **Notação Chen;**
