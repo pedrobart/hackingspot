@@ -322,3 +322,11 @@ Exemplos
  - **Construção, Implementação e Manutenção**
 
 ***
+# Ciclo de Vida dos Sistemas de Base de Dados
+
+
+| Principais Problemas dos Projetos: |     |
+| ---------------------------------- | --- |
+|                                    |     |
+|                                    |     |
+|                                    |     |
