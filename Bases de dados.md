@@ -345,11 +345,11 @@ Exemplos
 ***
 # Ciclo de Vida de um SBD – Definição do Sistema
 
-Descreve âmbito e os limites dos diferentes tipos de utilizador;
- As visões de utilizador definem o que é exigido de um SBD a partir
-da perspetiva de:
-- Um papel de trabalho específico (ex.: gerente ou supervisor)
-- Área aplicacional na empresa (ex.: marketing, pessoal, … ).
- Identificar as visões de utilizador ajuda a garantir que não são
-esquecidos utilizadores da BD no desenvolvimento dos requisitos
-para novo sistema.
+- **Descrever âmbito e os limites dos diferentes tipos de utilizador;**
+
+- **As visões de utilizador definem o que é exigido de um SBD a partir**
+- **da perspectiva de:**
+	- **Um papel de trabalho específico (ex.: gerente ou supervisor)**
+	- **Área aplicacional na empresa (ex.: marketing, pessoal, … ).**
+
+ - **Identificar as visões de utilizador ajuda a garantir que não são esquecidos utilizadores da BD no desenvolvimento dos requisitos para novo sistema.**
