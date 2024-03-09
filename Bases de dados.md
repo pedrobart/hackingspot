@@ -313,10 +313,12 @@ Exemplos
 ***
 # Ciclo de Vida dos Sistemas de Base de Dados
 
- - Planeamento
- - Definição do Sistema
- - Levantamento de Requisitos
- - Modelação Conceptual utilizando o Modelo E/R
- - Modelação Lógica utilizando o Modelo Relacional de dados
- - Modelação Física utilizando um SGBD para a implementação da base de dados
- - Construção, Implementação e Manutenção
+ - **Planeamento**
+ - **Definição do Sistema**
+ - **Levantamento de Requisitos**
+ - **Modelação Conceptual utilizando o Modelo E/R**
+ - **Modelação Lógica utilizando o Modelo Relacional de dados**
+ - **Modelação Física utilizando um SGBD para a implementação da base de dados**
+ - **Construção, Implementação e Manutenção**
+
+***
