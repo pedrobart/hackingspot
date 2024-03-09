@@ -32,11 +32,11 @@
 
 # Sistemas baseados em ficheiros
 ![[Pasted image 20240308190348 1.png]]
-![[Pasted image 20240308190348.png|500]]    
+]]    
 # Sistemas de bases de dados
 
-![[Pasted image 20240308190433.png|500]]
 
+![[Pasted image 20240308190433 1.png]]
 ***
 # **Abordagem baseada em ficheiros**
 
