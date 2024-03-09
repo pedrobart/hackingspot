@@ -455,4 +455,10 @@ Exemplos
 
 ### Relacionamento 
 
-Representa um conjunto de associações que se podem estabelecer.
+- **Representa um conjunto de associações que se podem estabelecer.**
+- **O seu nome descreve a sua função (é comum ser um verbo conjugado).**
+- **É caracterizado em termos de participação e de cardinalidade.**
+- **Tipos de relacionamento:** 
+	- **1:1 – Relacionamento “um para um”** 
+	- **1:N – Relacionamento “um para muitos”** 
+	- **M:N – Relacionamento “muitos para muitos”**
