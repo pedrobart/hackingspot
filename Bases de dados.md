@@ -447,4 +447,12 @@ Exemplos
 - **São caracterizadas através de um nome e de uma lista de atributos****
 **
 
-NOTAÇÃO  CHEN:  PRODUTO
+==NOTAÇÃO  CHEN==:  **PRODUTO**
+
+***
+
+# Modelo ER - Relacionamentos
+
+### Relacionamento 
+
+Representa um conjunto de associações que se podem estabelecer.
