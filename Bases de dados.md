@@ -447,4 +447,4 @@ Exemplos
 - **São caracterizadas através de um nome e de uma lista de atributos****
 **
 
-
+NOTAÇÃO  CHEN:  PRODUTO
