@@ -407,3 +407,9 @@ Um modelo E/R é uma representação abstrata da estrutura da BD a ser criada.
 É utilizado para a Modelação Conceptual do ciclo de
 desenvolvimento de uma base de dados.
 
+É constituído por entidades, atributos e relacionamentos.
+
+Serve para apresentar e validar a estrutura da BD.
+
+### Metodologia
+
