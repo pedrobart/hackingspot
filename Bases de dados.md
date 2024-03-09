@@ -474,4 +474,6 @@ Exemplos
 - **Representam as características de entidades e/ou relacionamentos.**
 - **Têm um domínio específico, que representa todos os valores possíveis que cada atributo pode assumir.**
 - **Têm uma natureza própria dos seus valores. Por exemplo, podem ser dos tipos inteiro, real, string, (...).****
-**
+
+==NOTAÇÃO  CHEN:==
+![[Pasted image 20240309020231.png]]
