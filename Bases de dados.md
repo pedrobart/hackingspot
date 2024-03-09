@@ -380,5 +380,12 @@ Exemplos
 
 # Ciclo de Vida de um SBD – Modelação Conceptual
 
-Construção de um modelo que responda aos requisitos do SBD.
+- **Construção de um modelo que responda aos requisitos do SBD.**
+
+- **Nesta modelação não são considerados detalhes da implementação, como, por exemplo, o software SGBD, aplicativos linguagens de programação, plataforma de hardware ou quaisquer outras considerações físicas.**
+
+- **O modelo conceptual de dados serve de base para a próxima fase do desenho do SBD: a modelação lógica**
+***
+
+
 
