@@ -462,3 +462,6 @@ Exemplos
 	- **1:1 – Relacionamento “um para um”** 
 	- **1:N – Relacionamento “um para muitos”** 
 	- **M:N – Relacionamento “muitos para muitos”**
+
+==NOTAÇÃO  CHEN:==
+![[Pasted image 20240309020051.png]]
