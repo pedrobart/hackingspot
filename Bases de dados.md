@@ -498,3 +498,10 @@ Exemplos
 
 ![[Pasted image 20240309020537.png]]
 
+***
+# Modelo ER – Participação e Cardinalidade
+
+## Interpretação 
+
+Deve ler-se “Um Professor leciona obrigatoriamente 1 ou mais Disciplinas e uma Disciplina é lecionada no mínimo por 1 ou por mais professores”
+
