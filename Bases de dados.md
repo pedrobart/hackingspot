@@ -308,3 +308,8 @@ Exemplos
 
 # Ciclo de Vida dos Sistemas de Base de Dados
 
+![[Pasted image 20240309012959.png]]
+
+***
+# Ciclo de Vida dos Sistemas de Base de Dados
+
