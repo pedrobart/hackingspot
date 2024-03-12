@@ -50,8 +50,8 @@
 - **[Oracle](https://www.oracle.com/)**
 
 **Servidores que possuem e manipulam informações numa base de dados.**
+![Pasted image 20240309165917](https://github.com/pedrobart/hackingspot/assets/87336174/53756d5f-0cbd-4336-aad4-ab118a9c15db)
 
-![[Pasted image 20240309165917.png]]
 
 ***
 # Algumas Aplicações para SO Servidores
@@ -59,15 +59,16 @@
 - **Servidor de Ficheiros – Servidor que armazena ficheiros de diversos utilizadores.**
 
 - **Servidor de Impressão – Servidor responsável por controlar pedidos de impressão de ficheiros dos diversos clientes.**
+![Pasted image 20240309170050](https://github.com/pedrobart/hackingspot/assets/87336174/2ea72ef4-964c-4788-ad59-c3c4d0de33dc)
 
-![[Pasted image 20240309170050.png]]
 ***
 # Algumas Aplicações para SO Servidores
 
 - **Serviços Web (HTTP Servers), como o IIS (Internet Information Services), Apache.**
 - **Servidores responsáveis pelo armazenamento de páginas de um determinado site, requisitados pelos clientes através de browsers.**
+![Pasted image 20240309170140](https://github.com/pedrobart/hackingspot/assets/87336174/693033d6-191b-4309-bc20-5db89276050a)
 
-![[Pasted image 20240309170140.png]]
+
 ***
 # Algumas Aplicações para SO Servidores
 
@@ -75,55 +76,63 @@
 
 - **Nem todos eles se limitam a serem meros servidores de e-mail, alguns incorporam calendários, entre outras funcionalidades.**
 
-![[Pasted image 20240309170358.png]]
+
+![Pasted image 20240309170358](https://github.com/pedrobart/hackingspot/assets/87336174/293be231-0aa9-4920-b633-2001ea8ec61f)
 
 ***
 
 # Algumas Aplicações para SO Servidores
 
 - **Servidores de Fax - Servidor para transmissão e receção automatizada de fax pela Internet, disponibilizando também a capacidade de enviar, receber e distribuir fax em todas as estações da rede.**
-![[Pasted image 20240309170453.png]]
+
+![Pasted image 20240309170453](https://github.com/pedrobart/hackingspot/assets/87336174/7a9cadd7-dc14-4b8f-ac23-e8db496394f3)
 
 ***
 # Algumas Aplicações para SO Servidores
 
 - **Servidor DNS – Servidores responsáveis pela conversão de endereços de sites em endereços IP e vice-versa.**
-![[Pasted image 20240309170702.png]]
+
+![Pasted image 20240309170702](https://github.com/pedrobart/hackingspot/assets/87336174/838d0bfc-532c-4e04-8e09-95e6b58369d1)
 
 ***
 # Algumas Aplicações para SO Servidores
 
 - **Servidor Proxy - Servidor que atua como uma cache, armazenando páginas da internet recém visitadas, aumentando a velocidade de carregamento destas páginas ao chamá-las novamente.**
+![Pasted image 20240309170755](https://github.com/pedrobart/hackingspot/assets/87336174/cce2a1d4-3e13-4c65-939f-05c3dc7bc506)
 
-![[Pasted image 20240309170755.png]]
+
 
 ***
 
 # Algumas Aplicações para SO Servidores
 
 - **Servidor FTP - Permite acesso de outros utilizadores a um disco rígido ou servidor. Esse tipo de servidor armazena ficheiros para dar acesso a eles pela internet.**
+![Pasted image 20240309170856](https://github.com/pedrobart/hackingspot/assets/87336174/5e0ce72a-876f-47d3-81b8-8d6173385680)
 
-![[Pasted image 20240309170856.png]]
+
 
 ***
 # Algumas Aplicações para SO Servidores
 
 - **Servidor Webmail - servidor para criar e-mails na web.**
+![Pasted image 20240309170951](https://github.com/pedrobart/hackingspot/assets/87336174/20d710d6-fc6e-4ae5-aaf8-bb67fb4d38e2)
 
-![[Pasted image 20240309170951.png]]
+
 ***
 # Algumas Aplicações para SO Servidores
 
 - **Servidor de Virtualização - permite a criação de máquinas virtuais (servidores isolados no mesmo equipamento) mediante compartilhamento de hardware, aumentando a eficiência energética, sem prejudicar as aplicações e sem risco de conflitos de uma consolidação real.**
+![Pasted image 20240309171911](https://github.com/pedrobart/hackingspot/assets/87336174/a6da4d71-e808-4e07-8b43-31e29be5521d)
 
-![[Pasted image 20240309171911.png]]
+
 ***
 # Algumas Aplicações para SO Servidores
 
 - **Servidor de sistema operativo - permite compartilhar o sistema operativo de uma máquina com outras, interligadas na mesma rede, sem que essas precisem ter um sistema operativo instalado, nem mesmo um HD próprio.**
 
+![Pasted image 20240309172009](https://github.com/pedrobart/hackingspot/assets/87336174/3f17a940-9585-4835-a1f0-4e01dac9ca35)
 
-![[Pasted image 20240309172009.png]]
+
 
 ***
 # Características 
