@@ -254,3 +254,5 @@
 **Após a máquina virtual ou o servidor inicializar a partir do DVD, ele exibirá um ecrã para configurar as configurações de idioma e teclado.**
 
 
+
+# irei continuar este projeto
