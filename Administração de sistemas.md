@@ -51,7 +51,6 @@
 
 **Servidores que possuem e manipulam informações numa base de dados.**
 obsidian://open?vault=hackingspot&file=Pasted%20image%2020240309165917.png
-![[Pasted image 20240309165917.png]]
 
 ***
 # Algumas Aplicações para SO Servidores
@@ -59,7 +58,7 @@ obsidian://open?vault=hackingspot&file=Pasted%20image%2020240309165917.png
 - **Servidor de Ficheiros – Servidor que armazena ficheiros de diversos utilizadores.**
 
 - **Servidor de Impressão – Servidor responsável por controlar pedidos de impressão de ficheiros dos diversos clientes.**
-
+obsidian://open?vault=hackingspot&file=Pasted%20image%2020240309170050.png
 ![[Pasted image 20240309170050.png]]
 ***
 # Algumas Aplicações para SO Servidores
