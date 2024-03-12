@@ -50,7 +50,7 @@
 - **[Oracle](https://www.oracle.com/)**
 
 **Servidores que possuem e manipulam informações numa base de dados.**
-
+obsidian://open?vault=hackingspot&file=Pasted%20image%2020240309165917.png
 ![[Pasted image 20240309165917.png]]
 
 ***
