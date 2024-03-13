@@ -247,6 +247,7 @@ Um relacionamento é uma associação entre entidades.**
 **
 ### Exemplos 
 **[FlockDB](https://github.com/twitter-archive/flockdb), [HyperGraphDB](https://hypergraphdb.org/), [Neo4j](https://neo4j.com/docs/)**
+
 ![Pasted image 20240309002337 1](https://github.com/pedrobart/hackingspot/assets/87336174/2711b36e-b2fd-4b43-bfac-7473420bceac)
 
 ***
@@ -275,6 +276,7 @@ Um relacionamento é uma associação entre entidades.**
 
 **Exemplos** 
 **[db4o](http://www.db4o.com/), [NEO](https://neo.nexedi.com/), [Versant](http://www.versant.com/)**
+
 ![Pasted image 20240309003312 1](https://github.com/pedrobart/hackingspot/assets/87336174/e0cf7379-5c74-4d3a-82f0-69c3b0df5503)
 
 
@@ -309,7 +311,9 @@ Exemplos
 
 # Ciclo de Vida dos Sistemas de Base de Dados
 
-![[Pasted image 20240309012959.png]]
+
+![](https://i.imgur.com/VCiwauR.png)
+
 
 ***
 # Ciclo de Vida dos Sistemas de Base de Dados
@@ -394,12 +398,16 @@ Exemplos
 
 ## Diagramas de Classes e de Estados
 
-![[Pasted image 20240309014847.png]]
+
+![](https://i.imgur.com/MD4mJfn.png)
+
 
 ***
 # Modelação Conceptual utilizando o Modelo E/R
 
-![[Pasted image 20240309015000.png]]
+
+![](https://i.imgur.com/O5mDPrv.png)
+
 
 - **A modelação Entidade-Relacionamento é um modo de comunicação não técnico e isento de ambiguidades, que permite uma compreensão precisa dos dados e de como eles são usados.**
 
