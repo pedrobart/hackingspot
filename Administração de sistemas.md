@@ -28,6 +28,8 @@
 - **Resolução de problemas**
 - **Instalação de serviços e aplicativos**
 - **Levantamento das necessidades de utilização e seleção do sistema servidor mais adequado**
+- **Instalação do sistema operativo Windows Server**
+- **Instalação Active Directory**
 ***
 # Administração de sistemas
 
@@ -264,24 +266,24 @@
 ![Screenshot 2024-03-12 011336](https://github.com/pedrobart/hackingspot/assets/87336174/5d54bdd7-b9c7-4eca-9e75-025434eb67a5)
 
 
-
+**Começar a instalação:**
 ![Screenshot 2024-03-12 011347](https://github.com/pedrobart/hackingspot/assets/87336174/57e9006a-d341-48bc-a234-ebf72d4923fa)
 
 
-
+**Selecionar a versão:**
 ![Screenshot 2024-03-12 011409](https://github.com/pedrobart/hackingspot/assets/87336174/e01e4b02-c3be-47d1-bc34-dfd896fafb87)
-
+**Depois de ler todos os termos da licença, clicar em aceitar e avançar:**
 ![Screenshot 2024-03-12 011437](https://github.com/pedrobart/hackingspot/assets/87336174/8041e9ca-95b8-484b-a314-92e0dbb3452b)
 
-
+**Selecionar a instalação personalizada:**
 ![Screenshot 2024-03-12 011452](https://github.com/pedrobart/hackingspot/assets/87336174/e56e6b6f-1b1e-4867-abb9-2a65c6230a45)
 
-
+**Processo de instalação:**
 ![Screenshot 2024-03-12 011538](https://github.com/pedrobart/hackingspot/assets/87336174/22066e18-36be-4566-8495-07651f442578)
-
+**Após reiniciar e efetuar login aparece a interface de configuração:**
 ![Screenshot 2024-03-12 012301](https://github.com/pedrobart/hackingspot/assets/87336174/8f88fba2-78da-4580-be91-c0f7fdc5a21b)
 
-![Screenshot 2024-03-12 012354](https://github.com/pedrobart/hackingspot/assets/87336174/eb995448-68b2-4052-9ccb-efac56e9f51e)
+***
 
 
-
+# ** restante conteudo em desenvolvimento**
