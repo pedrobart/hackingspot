@@ -514,9 +514,11 @@ Exemplos
 
 - **Um professor pode lecionar N (várias) disciplinas.**
 - **Uma disciplina pode ser lecionada por M (vários) professores.**
-![[Pasted image 20240309020843.png]]
-
 - **Entre professor e disciplina existe um relacionamento de M:N**
+![](https://i.imgur.com/L8QajGA.png)
+
+
+
 
 
 
