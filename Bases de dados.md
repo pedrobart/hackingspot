@@ -192,6 +192,7 @@ Um relacionamento é uma associação entre entidades.**
 - **Os valores podem ser armazenados como collections, associative arrays, and dictionaries, etc.** 
 
 **Exemplos: [Redis](https://aws.amazon.com/pt/elasticache/what-is-redis/), [Memcached](https://aws.amazon.com/pt/memcached/)**
+
 ![Pasted image 20240308205912 1](https://github.com/pedrobart/hackingspot/assets/87336174/c78eab71-eb8f-463d-b029-e7a506a01437)
 
 
@@ -464,7 +465,9 @@ Exemplos
 	- **M:N – Relacionamento “muitos para muitos”**
 
 ==NOTAÇÃO  CHEN:
-![[Pasted image 20240309020051.png]]
+
+![](https://i.imgur.com/NXzEjGd.png)
+
 
 ***
 # Modelo ER - Atributos
@@ -476,7 +479,11 @@ Exemplos
 - **Têm uma natureza própria dos seus valores. Por exemplo, podem ser dos tipos inteiro, real, string, (...).****
 
 ==NOTAÇÃO  CHEN:==
-![[Pasted image 20240309020231.png]]
+
+![](https://i.imgur.com/7Ae8ZyB.png)
+
+
+
 
 ***
 # Modelo ER – Tipos de Entidades
@@ -485,18 +492,24 @@ Exemplos
 
 **É uma entidade que pode existir por si só, ou seja, não depende da existência de qualquer outra entidade.**
 
-![[Pasted image 20240309020402.png]]
+
+![](https://i.imgur.com/EEw9vEw.png)
+
 
 ### Entidade Fraca
 
 - **É uma entidade que depende da existência de uma entidade forte.**
 - **Precisa de atributos de entidades fortes para ser totalmente caracterizada.**
-![[Pasted image 20240309020503.png]]
+
+![](https://i.imgur.com/2obQmOr.png)
+
 
 
 ## Exemplo 
 
-![[Pasted image 20240309020537.png]]
+
+![](https://i.imgur.com/EieO3Mb.png)
+
 
 ***
 # Modelo ER – Participação e Cardinalidade
