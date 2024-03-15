@@ -296,7 +296,6 @@
 **Após reiniciar e efetuar login aparece a interface de configuração:**
 ![Screenshot 2024-03-12 012301](https://github.com/pedrobart/hackingspot/assets/87336174/8f88fba2-78da-4580-be91-c0f7fdc5a21b)
 
-***
 
 
 # ** restante conteudo em desenvolvimento**
@@ -401,3 +400,6 @@
 - **Em Pasta Especifica Compartilhada Remota, escolher a localização para o caminho de rede fazer o backup dos ficheiros.**
 
 ![](https://i.imgur.com/A5YNnPC.png)
+
+***
+# Em breve  haverá mais conteúdo
