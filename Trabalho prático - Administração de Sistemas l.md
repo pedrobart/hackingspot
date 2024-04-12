@@ -63,3 +63,31 @@
 ![Screenshot 2024-03-12 012301](https://github.com/pedrobart/hackingspot/assets/87336174/8f88fba2-78da-4580-be91-c0f7fdc5a21b)
 
 
+## Configuração das funcionalidades no VirtualBox
+
+### Geral
+![](https://i.imgur.com/j31beyc.png)
+
+### Geral/Avançado 
+Em área de transferência e arrastar e largar colocamos a opção Bidirecional para melhor experiência entre o host e as outras máquinas.
+![](https://i.imgur.com/Pmzr7Q8.png)
+
+### Sistema
+**Nas funções  de sistema, utilizamos uma memória RAM alta para conseguir-mos tirar um bom proveito de resposta do sistema do nosso servidor.**
+![](https://i.imgur.com/h2zjJjQ.png)
+
+### Processador
+**Nas funções  do processador, cedemos os núcleos do processor da máquina host para garantir mais desempenho.**
+![](https://i.imgur.com/srfuUbD.png)
+
+### Aceleração 
+**Dependendo do processor e as funcionalidades de virtualização suportadas, podemos ou não ativar a função abaixo.**
+![](https://i.imgur.com/Bq4fJDS.png)
+
+### Ecrã 
+**Nas opções  de ecrã deixamos 128mb disponíveis em memória de vídeo e ativamos o recurso de aceleração 3D.**
+**É necessário uma placa gráfica integrada no cpu ou placa gráfica dedicada.**
+![](https://i.imgur.com/1aTSNT2.png)
+
+# Instalação da Active Directory 
+
