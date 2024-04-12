@@ -8,7 +8,8 @@
 - **Evolução dos Modelos de Bases de Dados**
 - **Modelos de bases de dados relacionais**
 - **Modelos de bases de dados não relacionais**
-
+- ciclo de vida dos sistemas de base dados
+- modelo relacional
 
 
 
@@ -543,6 +544,9 @@ Exemplos
 
 
 ***
+
+
+
 
 
 
