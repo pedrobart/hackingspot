@@ -17,7 +17,8 @@
 - **Efetuar a defesa do trabalho realizado/conteúdos lecionados**
 
 ***
-- **Estrutura do Trabalho Final e respetivo Relatório** 
+## **Estrutura do Trabalho Final e respetivo Relatório** 
+
 - **Objetivos e Introdução** 
 - **Sistemas Operativos Servidor – Plataforma Proprietária** 
 	 - **a. Descrição Sumária (estado da arte)** 
@@ -27,4 +28,5 @@
  - **Criar e testar as permissões de diferentes utilizadores** 
  - **Conclusão** 
  - **Elementos Bibliográficos**
+ ***
  
