@@ -1,4 +1,4 @@
-**1 - Introdução ao tratamento de incidentes**
+**Introdução ao tratamento de incidentes**
 
 Embora nos preocupemos com a cibersegurança e seja gasto orçamento em sistemas de segurança, ainda é possível ser alvo e sofrer um incidente de cibersegurança. A fim de minimizar perdas, mitigar as vulnerabilidades exploradas e restaurar os serviços após o incidente sem qualquer problema, as Equipas de Resposta a Incidentes devem ser formadas antes dos incidentes para gerir os processos de resposta a incidentes.
 
