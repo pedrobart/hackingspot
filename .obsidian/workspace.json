@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "9a3e4cee7b6a2915",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5afb22bb509e13d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0567ade3133e9c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guia de tratamento de incidentes de cibersegurança/Etapas de tratamento de incidentes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Etapas de tratamento de incidentes"
+            }
+          },
+          {
+            "id": "01892456d28c7a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guia de tratamento de incidentes de cibersegurança/Deteção e Análise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deteção e Análise"
+            }
+          },
+          {
+            "id": "db4ad18f9e13b3f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guia de tratamento de incidentes de cibersegurança/Contenção, Erradicação e Recuperação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contenção, Erradicação e Recuperação"
+            }
+          },
+          {
+            "id": "030475824a7937ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guia de tratamento de incidentes de cibersegurança/Etapas de tratamento de incidentes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Etapas de tratamento de incidentes"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8dc5f8e83f809dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc958f25b870146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39fd22cb2b00cd4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7759599714bd92be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5c528abbda1b3114",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08bee2ef23ed4132",
+    "type": "split",
+    "children": [
+      {
+        "id": "217c15fec4fe3a87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d778afe4eab9c123",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Guia de tratamento de incidentes de cibersegurança/Etapas de tratamento de incidentes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Etapas de tratamento de incidentes"
+            }
+          },
+          {
+            "id": "c5b5f5b76d9d74ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Guia de tratamento de incidentes de cibersegurança/Etapas de tratamento de incidentes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Etapas de tratamento de incidentes"
+            }
+          },
+          {
+            "id": "fa3f9e9562b95a39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "24b15047bdd94154",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Guia de tratamento de incidentes de cibersegurança/Etapas de tratamento de incidentes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Etapas de tratamento de incidentes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "39fd22cb2b00cd4e",
+  "lastOpenFiles": [
+    "Guia de tratamento de incidentes de cibersegurança/Guia de tratamento de incidentes de cibersegurança.md",
+    "Guia de tratamento de incidentes de cibersegurança/Etapas de tratamento de incidentes.md",
+    "Guia de tratamento de incidentes de cibersegurança/Deteção e Análise.md",
+    "Guia de tratamento de incidentes de cibersegurança/Contenção, Erradicação e Recuperação.md",
+    "Guia de tratamento de incidentes de cibersegurança/Atividade pós-incidente.md",
+    "anexos/Untitled.png",
+    "Untitled",
+    "anexos",
+    "anexos/Pasted image 20241120210132.png",
+    "Guia de tratamento de incidentes de cibersegurança"
+  ]
+}
