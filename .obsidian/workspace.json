@@ -202,20 +202,37 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39fd22cb2b00cd4e",
+  "active": "030475824a7937ee",
   "lastOpenFiles": [
+    "attachments/Screenshot 2024-03-12 012354.png",
+    "attachments/Screenshot 2024-03-12 012301.png",
+    "attachments/Pasted image 20240309172009.png",
+    "attachments/Pasted image 20240309171911.png",
+    "attachments/Pasted image 20240309170951.png",
+    "attachments/Pasted image 20240309170944.png",
+    "attachments/Pasted image 20240309170856.png",
+    "attachments/Pasted image 20240309170755.png",
+    "attachments/Pasted image 20240309170702.png",
+    "attachments/Pasted image 20240309170453.png",
+    "attachments/Pasted image 20240309170358.png",
+    "attachments",
+    "Wireshark Sniffer e pentesting em ambientes virtuais.md",
+    "Ransomware.md",
+    "REDES E COMUNICAÇÃO DE DADOS.md",
+    "README.md",
+    "Bases de dados.md",
+    "Administração de sistemas.md",
     "Guia de tratamento de incidentes de cibersegurança/Guia de tratamento de incidentes de cibersegurança.md",
     "Guia de tratamento de incidentes de cibersegurança/Etapas de tratamento de incidentes.md",
     "Guia de tratamento de incidentes de cibersegurança/Deteção e Análise.md",
     "Guia de tratamento de incidentes de cibersegurança/Contenção, Erradicação e Recuperação.md",
     "Guia de tratamento de incidentes de cibersegurança/Atividade pós-incidente.md",
-    "anexos/Untitled.png",
     "Untitled",
     "anexos",
-    "anexos/Pasted image 20241120210132.png",
     "Guia de tratamento de incidentes de cibersegurança"
   ]
 }
