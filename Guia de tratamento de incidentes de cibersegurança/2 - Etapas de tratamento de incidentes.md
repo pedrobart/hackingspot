@@ -1,5 +1,5 @@
-![[Pasted image 20241120210132.png]]
 
+(https://github.com/pedrobart/hackingspot/blob/main/anexos/Pasted%20image%2020241120210132.png)
 De acordo com as recomendações publicadas pelo NIST, os processos de resposta a incidentes  devem ser tratados em 4 etapas. Essas etapas são as seguintes:
 
     Preparação
