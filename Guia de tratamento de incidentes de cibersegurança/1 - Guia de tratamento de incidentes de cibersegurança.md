@@ -4,7 +4,7 @@ Embora nos preocupemos com a cibersegurança e seja gasto orçamento em sistemas
 
 São necessários planos e recursos precisos, pois a resposta a incidentes é um processo complexo que pode fazer com que todos os processos de resposta a incidentes sejam desperdiçados no caso de etapas imprecisas ou negligenciadas.
 
-Instituto Nacional de Padrões e Tecnologia (NIST), uma agência do Departamento de Comércio dos Estados Unidos cuja missão é promover a inovação americana e a competitividade industrial. A Estrutura de Cibersegurança do NIST ajuda empresas de todos os tamanhos a compreender, gerir e reduzir melhor o risco de segurança cibernética e a proteger as suas redes e dados.
+Instituto Nacional de Padrões e Tecnologia (NIST), uma agência do Departamento de Comércio dos Estados Unidos cuja missão é promover a inovação americana e a competitividade industrial. A Estrutura de Cibersegurança do NIST ajuda empresas de todos os tamanhos a compreender, gerir e reduzir melhor o risco de segurança e a proteger as suas redes e dados.
 (Fonte: https://www.ftc.gov/business-guidance/small-businesses/cybersecurity/nist-framework)
 
 
