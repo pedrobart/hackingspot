@@ -1,4 +1,5 @@
-![[Pasted image 20241120210132.png]]
+
+![Pasted image 20241120210132](https://github.com/user-attachments/assets/2d11cce8-c2a6-4f0a-92cb-1cab78c6a29b)
 
 De acordo com as recomendações publicadas pelo NIST, os processos de resposta a incidentes  devem ser tratados em 4 etapas. Essas etapas são as seguintes:
 
