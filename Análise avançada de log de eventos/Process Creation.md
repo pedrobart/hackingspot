@@ -27,7 +27,10 @@ Em seguida, em Configuração do Computador > Configurações do Windows > Confi
 
 
 
+
+
 Em seguida, clicamos em "Auditar a criação do processo" > "Sucesso".
+
 ![Screenshot 2024-11-26 221900](https://github.com/user-attachments/assets/c5bc3302-ec62-45f7-b909-38c7dcdef108)
 
 
