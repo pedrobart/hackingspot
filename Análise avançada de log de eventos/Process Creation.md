@@ -15,38 +15,47 @@ Quando um programa é executado, muitas vezes é dado parâmetros (também conhe
 Por padrão, o Windows não tem essas configurações de auditoria de eventos ativadas, portanto, precisamos configurá-las e ativá-las no sistema.
 
 Primeiro, procuramos por edit group policy na barra de pesquisa do Windows.
-![Screenshot 2024-11-26 221838](https://github.com/user-attachments/assets/7eaa8ccc-aaad-4d3b-bd02-e6e3774900d8)
+![Screenshot 2024-11-26 221620](https://github.com/user-attachments/assets/8feb82df-5c99-4f4b-82fb-cc954e657e98)
+
 
 
 
 
 Em seguida, em Configuração do Computador > Configurações do Windows > Configurações de Segurança > Configuração da Política de Auditoria Avançada > Políticas de Auditoria > Rastreamento detalhado > Criação de Processo de Auditoria
 
-![[Pasted image 20241126221841.png]]
+![Screenshot 2024-11-26 221838](https://github.com/user-attachments/assets/f75c028e-e1e4-416e-8c34-342d4447fdab)
+
+
 
 Em seguida, clicamos em "Auditar a criação do processo" > "Sucesso".
-![[Pasted image 20241126221913.png]]
+![Screenshot 2024-11-26 221900](https://github.com/user-attachments/assets/c5bc3302-ec62-45f7-b909-38c7dcdef108)
+
+
 
 Agora também queremos incluir 'CommandLine' para ser registado com a criação do processo. Configuração do Computador > Templates Administrativo > Sistema > Criação de Processos de Auditoria > definir “Incluir linha de comando em eventos de criação de processos” para ativar.
 
-![[Pasted image 20241126222101.png]]
+![Screenshot 2024-11-26 222059](https://github.com/user-attachments/assets/71fa65ed-fdd4-44d0-9170-0a92fbdb173e)
+
 
 E ativamos a auditoria:
-![[Pasted image 20241126222134.png]]
+![Screenshot 2024-11-26 222123](https://github.com/user-attachments/assets/40198b73-7b3d-4eda-8361-c13ceea82b7f)
+
+
 
 ## Análises
 
 Agora todos os logs de criação de processos têm "CommandLine". Vamos filtrar os logs de segurança do Windows para o ID de eventos 4688.
 
-![[Pasted image 20241126222249.png]]
 
 Abri um cmd.exe e executei o comando whoami:
-![[Pasted image 20241126222546.png]]
+
+![Screenshot 2024-11-26 222527](https://github.com/user-attachments/assets/dfcd9425-833a-4fa7-a7c2-63d20f0293d6)
 
 
 Abrindo o log mais recente em busca dessa operação:
 
-![[Pasted image 20241126222611.png]]
+![Screenshot 2024-11-26 222609](https://github.com/user-attachments/assets/6760834e-46a9-4465-8c0d-828f40e2b6cd)
+
 **Nome da conta** A conta de user usada para executar o processo.
 
 **Nome novo do processo** Este campo contém o nome do processo que foi executado e fez com que este evento fosse registado.
@@ -59,8 +68,8 @@ Abrindo o log mais recente em busca dessa operação:
 
 
 Agora que cobrimos os campos de log de eventos e o que procurar, vamos olhar para um registo mais ofensivo:
+![Screenshot 2024-11-26 223129](https://github.com/user-attachments/assets/4c5f941d-5ddf-426a-9701-8ea330d0c313)
 
-![[Pasted image 20241126223137.png]]
 
 Este exemplo mostra-nos o poder da Linha de Comando do Processo. Podemos ver imediatamente o propósito do processo e observar que o processo net.exe foi gerado por cmd.exe e a linha de comando é "net user teste password1 /add".
 
