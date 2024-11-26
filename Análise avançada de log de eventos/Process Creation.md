@@ -15,7 +15,8 @@ Quando um programa é executado, muitas vezes é dado parâmetros (também conhe
 Por padrão, o Windows não tem essas configurações de auditoria de eventos ativadas, portanto, precisamos configurá-las e ativá-las no sistema.
 
 Primeiro, procuramos por edit group policy na barra de pesquisa do Windows.
-![[Pasted image 20241126221621.png]]
+![Screenshot 2024-11-26 221838](https://github.com/user-attachments/assets/7eaa8ccc-aaad-4d3b-bd02-e6e3774900d8)
+
 
 
 
