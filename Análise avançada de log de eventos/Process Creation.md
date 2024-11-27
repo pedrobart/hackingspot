@@ -23,7 +23,9 @@ Em seguida, em Configuração do Computador > Configurações do Windows > Confi
 ![](../anexos/Screenshot%202024-11-26%20221838.png)
 
 
+
 Em seguida, clicamos em "Auditar a criação do processo" > "Sucesso".
+
 ![](../anexos/Screenshot%202024-11-26%20221900.png)
 
 Agora também queremos incluir 'CommandLine' para ser registado com a criação do processo. Configuração do Computador > Templates Administrativo > Sistema > Criação de Processos de Auditoria > definir “Incluir linha de comando em eventos de criação de processos” para ativar.
@@ -68,7 +70,8 @@ O net.exe é um binário nativo e é usado para gerir users / grupos num sistema
 Podemos identificar muitos eventos de segurança diferentes apenas verificando os logs de processo. Eles devem ser configurados em todos os ambientes empresariais e armazenados numa solução SIEM centralizada.
 
 ***
-==Exemplo de um invasor detetado no event ID 4688:==
+**Exemplo de um invasor detetado no event ID 4688:**
+
 A new process has been created.
 
 Creator Subject:
