@@ -98,6 +98,6 @@ Vemos que está em base64, decodificando temos o output:
 ![[Pasted image 20241127225623.png]]
 
 Mas ainda temos bytes nulos a poluir o comando utilizado pelo invasor. Retirando os bytes nulos:
-![[Pasted image 20241127225839.png]]
+[[Pasted image 20241127225839.png]]
 
 Vemos que o invasor utiliza o protocolo TCP no IP mencionado na porta 4444.
