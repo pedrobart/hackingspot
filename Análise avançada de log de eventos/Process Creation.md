@@ -15,37 +15,37 @@ Quando um programa é executado, muitas vezes é dado parâmetros (também conhe
 Por padrão, o Windows não tem essas configurações de auditoria de eventos ativadas, portanto, precisamos configurá-las e ativá-las no sistema.
 
 Primeiro, procuramos por edit group policy na barra de pesquisa do Windows.
-![[Pasted image 20241126221621.png]]
 
+![](../anexos/Screenshot%202024-11-26%20221620.png)
 
 
 Em seguida, em Configuração do Computador > Configurações do Windows > Configurações de Segurança > Configuração da Política de Auditoria Avançada > Políticas de Auditoria > Rastreamento detalhado > Criação de Processo de Auditoria
+![](../anexos/Screenshot%202024-11-26%20221838.png)
 
-![[Pasted image 20241126221841.png]]
 
 Em seguida, clicamos em "Auditar a criação do processo" > "Sucesso".
-![[Pasted image 20241126221913.png]]
+![](../anexos/Screenshot%202024-11-26%20221900.png)
 
 Agora também queremos incluir 'CommandLine' para ser registado com a criação do processo. Configuração do Computador > Templates Administrativo > Sistema > Criação de Processos de Auditoria > definir “Incluir linha de comando em eventos de criação de processos” para ativar.
 
-![[Pasted image 20241126222101.png]]
+![](../anexos/Screenshot%202024-11-26%20222059.png)
 
 E ativamos a auditoria:
-![[Pasted image 20241126222134.png]]
 
+![](../anexos/Screenshot%202024-11-26%20222123.png)
 ## Análises
 
 Agora todos os logs de criação de processos têm "CommandLine". Vamos filtrar os logs de segurança do Windows para o ID de eventos 4688.
+![](../anexos/Screenshot%202024-11-26%20222247.png)
 
-![[Pasted image 20241126222249.png]]
 
 Abri um cmd.exe e executei o comando whoami:
-![[Pasted image 20241126222546.png]]
 
+![](../anexos/Screenshot%202024-11-26%20222527.png)
 
 Abrindo o log mais recente em busca dessa operação:
 
-![[Pasted image 20241126222611.png]]
+![](../anexos/Screenshot%202024-11-26%20222609.png)
 **Nome da conta** A conta de user usada para executar o processo.
 
 **Nome novo do processo** Este campo contém o nome do processo que foi executado e fez com que este evento fosse registado.
@@ -59,7 +59,7 @@ Abrindo o log mais recente em busca dessa operação:
 
 Agora que cobrimos os campos de log de eventos e o que procurar, vamos olhar para um registo mais ofensivo:
 
-![[Pasted image 20241126223137.png]]
+![](../anexos/Screenshot%202024-11-26%20223129.png)
 
 Este exemplo mostra-nos o poder da Linha de Comando do Processo. Podemos ver imediatamente o propósito do processo e observar que o processo net.exe foi gerado por cmd.exe e a linha de comando é "net user teste password1 /add".
 
@@ -68,7 +68,7 @@ O net.exe é um binário nativo e é usado para gerir users / grupos num sistema
 Podemos identificar muitos eventos de segurança diferentes apenas verificando os logs de processo. Eles devem ser configurados em todos os ambientes empresariais e armazenados numa solução SIEM centralizada.
 
 ***
-Exemplo de um invasor detetado no event ID 4688:
+==Exemplo de um invasor detetado no event ID 4688:==
 A new process has been created.
 
 Creator Subject:
@@ -95,9 +95,9 @@ Process Information:
 
 Vemos que está em base64, decodificando temos o output:
 
-![[Pasted image 20241127225623.png]]
+![](../anexos/Screenshot%202024-11-27%20225409.png)
 
 Mas ainda temos bytes nulos a poluir o comando utilizado pelo invasor. Retirando os bytes nulos:
-![[Pasted image 20241127225839.png]]
 
+![](../anexos/Screenshot%202024-11-27%20225813.png)
 Vemos que o invasor utiliza o protocolo TCP no IP mencionado na porta 4444
