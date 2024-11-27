@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "08bee2ef23ed4132",
@@ -166,6 +165,11 @@
   },
   "active": "4b3276f0d4da140b",
   "lastOpenFiles": [
+    "anexos/Pasted image 20241127225839.png",
+    "anexos/Pasted image 20241127225623.png",
+    "anexos/Pasted image 20241127225616.png",
+    "Análise avançada de log de eventos/DNS Activity.md",
+    "Análise avançada de log de eventos/Process Creation.md",
     "anexos/Pasted image 20241126223137.png",
     "anexos/Pasted image 20241126222611.png",
     "anexos/Pasted image 20241126222546.png",
@@ -174,20 +178,15 @@
     "anexos/Pasted image 20241126222101.png",
     "anexos/Pasted image 20241126221913.png",
     "anexos/Pasted image 20241126221841.png",
-    "anexos/Pasted image 20241126221621.png",
     "Análise avançada de log de eventos/MSI Event Logs.md",
     "Análise avançada de log de eventos/Network Connections Event Log.md",
     "Análise avançada de log de eventos/BITS Client Event Log.md",
     "Análise avançada de log de eventos/File & Folder Monitoring.md",
-    "Análise avançada de log de eventos/DNS Activity.md",
-    "Análise avançada de log de eventos/Process Creation.md",
     "Ataques Active Directory/NTDS Database Dumping.md",
     "Análise avançada de log de eventos",
     "Ataques Active Directory/AS-REP Roasting Attack.md",
     "Ataques Active Directory/Enumeração LDAP (Bloodhound_sharphound).md",
-    "anexos/Pasted image 20241124170842.png",
     "Ataques Active Directory/Ataques de Kerberoasting.md",
-    "anexos/Pasted image 20241124013905.png",
     "Ataques Active Directory/Introdução ao Active Directory.md",
     "Ataques Active Directory",
     "Vulnerabilidades e detecção de SAML/Vulnerabilidades SAML comuns.md",
