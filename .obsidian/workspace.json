@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f6bf701e4c66ae3c",
+        "id": "8912f8110ca390f1",
         "type": "tabs",
         "children": [
           {
-            "id": "4b3276f0d4da140b",
+            "id": "32ced2dbd461de8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Análise avançada de log de eventos/Process Creation.md",
+                "file": "Análise avançada de log de eventos/Network Connections Event Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Process Creation"
+              "title": "Network Connections Event Log"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "08bee2ef23ed4132",
@@ -163,26 +164,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b3276f0d4da140b",
+  "active": "32ced2dbd461de8d",
   "lastOpenFiles": [
-    "anexos/Screenshot 2024-11-26 221620.png",
-    "anexos/Screenshot 2024-11-26 221838.png",
-    "anexos/Screenshot 2024-11-26 221900.png",
-    "anexos/Screenshot 2024-11-26 222059.png",
-    "anexos/Screenshot 2024-11-26 222123.png",
-    "anexos/Screenshot 2024-11-26 222247.png",
-    "anexos/Screenshot 2024-11-26 222527.png",
-    "anexos/Screenshot 2024-11-26 222609.png",
-    "anexos/Screenshot 2024-11-26 223129.png",
-    "anexos/Screenshot 2024-11-27 225409.png",
-    "anexos/Screenshot 2024-11-27 225813.png",
+    "Análise avançada de log de eventos/Network Connections Event Log.md",
+    "anexos/Pasted image 20241203225508.png",
+    "anexos/Pasted image 20241203225326.png",
+    "anexos/Pasted image 20241203225309.png",
+    "anexos/Pasted image 20241203225250.png",
+    "Análise avançada de log de eventos/BITS Client Event Log.md",
+    "anexos/Pasted image 20241203221955.png",
+    "anexos/Pasted image 20241203221920.png",
+    "anexos/Pasted image 20241203221801.png",
+    "anexos/Pasted image 20241203221710.png",
+    "anexos/Pasted image 20241203221441.png",
+    "anexos/Pasted image 20241203221415.png",
+    "Análise avançada de log de eventos/File & Folder Monitoring.md",
+    "Análise avançada de log de eventos/DNS Activity.md",
     "Análise avançada de log de eventos/Process Creation.md",
     "conflict-files-obsidian-git.md",
-    "Análise avançada de log de eventos/DNS Activity.md",
     "Análise avançada de log de eventos/MSI Event Logs.md",
-    "Análise avançada de log de eventos/Network Connections Event Log.md",
-    "Análise avançada de log de eventos/BITS Client Event Log.md",
-    "Análise avançada de log de eventos/File & Folder Monitoring.md",
     "Ataques Active Directory/NTDS Database Dumping.md",
     "Análise avançada de log de eventos",
     "Ataques Active Directory/AS-REP Roasting Attack.md",
