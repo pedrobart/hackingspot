@@ -1,4 +1,4 @@
-# Pentesting em ambiente virtualizado + Sniffing com Wireshark
+# Teste de penetração em ambiente virtualizado + Sniffing com Wireshark
 
 **Neste laboratório explorei várias questões relacionadas à configuração e análise de tráfego de rede usando o [wireshark](https://www.wireshark.org/) num ambiente de laboratório virtual. Comecei com a configuração básica das máquinas virtuais no [VirtualBox](https://www.virtualbox.org/), incluindo a configuração das interfaces de rede e a definição de endereços IP  para garantir conectividade entre as máquinas. As máquinas utilizadas foram: [Kioptrix](https://www.vulnhub.com/entry/kioptrix-level-1-1,22/) , [Kali Linux](https://www.kali.org/) , [Linux Mint](https://linuxmint.com/).**
 
