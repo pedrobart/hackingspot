@@ -1,6 +1,3 @@
-
-teste
-
 O DNS é uma parte crítica das comunicações de rede e às vezes é considerado a lista telefônica da Internet. 
 
 Antes de estabelecer conexões por meio de protocolos como HTTP(S), SMTP, etc., a maioria dos softwares de rede, incluindo malware, depende do DNS para resolver domínios para endereços IP. 
