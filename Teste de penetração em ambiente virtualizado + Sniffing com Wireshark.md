@@ -321,7 +321,7 @@ gcc -o Samba 10.c
 ***
 # **Fim**
 
-**Este resumo destaca as etapas e técnicas utilizadas para explorar vulnerabilidades, analisar tráfego de rede e comprometer uma máquina num ambiente de laboratório controlado. É importante ressaltar que todas as atividades foram realizadas para fins educacionais e práticos, visando a aprendizagem e o aprimoramento das habilidades em segurança cibernética e testes de penetração.**
+**Este resumo destaca as etapas e técnicas utilizadas para explorar vulnerabilidades, analisar tráfego de rede e comprometer uma máquina num ambiente de laboratório controlado. É importante ressaltar que todas as atividades foram realizadas para fins educacionais e práticos, visando a aprendizagem e o aprimoramento das habilidades em segurança informática e testes de penetração.**
 
 
 
