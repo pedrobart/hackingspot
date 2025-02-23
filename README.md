@@ -1,18 +1,18 @@
-# Bem-vindo
- 
-**Bem-vindo ao meu repositório GitHub dedicado a tutoriais de hacking e projetos pessoais!**
+## Bem Vindo
 
-**Trabalho como Analista de Resposta a Incidentes num Centro de Operações de Segurança (SOC) em Portugal e em paralelo, atualmente encontro-me a estudar num curso superior de cibersegurança, redes de computadores e sistema informáticos.**
+Este repositório GitHub é um espaço técnico e educacional dedicado a cibersegurança, hacking ético e análise de ameaças, destinado a profissionais, estudantes e entusiastas da área. O objetivo é partilhar conhecimento técnico, documentar metodologias e disseminar boas práticas de segurança informática.  
 
- **Tenho um grande interesse desde tenra idade em segurança ofensiva, segurança defensiva e análise de malware. Neste repositório, pretendo partilhar conteúdos relacionados com os meus estudos e experiências nestas áreas.**
+## Sobre Mim
 
-**Este repositório utilizo como uma forma de transmitir os meus conhecimentos e pode ser utilizado como um centro de recursos para entusiastas, estudantes e profissionais interessados em cibersegurança, hacking ético e áreas relacionadas.**
+Atualmente, desempenho funções como Analista de Resposta a Incidentes num Centro de Operações de Segurança (SOC) em Portugal, enquanto frequento um curso superior em Cibersegurança, Redes de Computadores e Sistemas Informáticos. Desde cedo desenvolvi um forte interesse por segurança ofensiva, defesa cibernética e análise de malware, e este repositório reflete a minha experiência prática e teórica.  
 
-**Aqui, encontrarás uma coleção de tutoriais que abordam várias técnicas de hacking, ferramentas e metodologias, com o objetivo de fornecer tanto a iniciantes como a utilizadores avançados conhecimentos e insights práticos. Além disso, apresento projetos que exploram investigação profunda, abordando desafios contemporâneos em cibersegurança e entre outros.**
+O conteúdo deste espaço inclui tutoriais e projetos focados em segurança ofensiva e defensiva, abordando hacking ético, testes de penetração, exploração de vulnerabilidades, engenharia reversa, análise forense e resposta a incidentes. Além disso, exploro estudos de caso e investigações aprofundadas sobre ameaças emergentes, bem como o desenvolvimento de scripts para automação de tarefas na segurança da informação.  
 
-**Quero também salientar que quero comprometer-me a trazer mais conteúdo para este repositório, apesar de nem sempre ter tempo para produzir o valor que gostaria. Esta é uma das coisas que pretendo melhorar no meu dia a dia.**
+Apesar das limitações de tempo, comprometo-me a atualizar este repositório regularmente com novos conteúdos, garantindo a sua relevância e utilidade. Para acompanhar mais do meu trabalho, segue-me nas redes sociais: LinkedIn e Instagram.
 
 **Segue-me nas redes sociais,**
+
 [Instagram](https://www.instagram.com/pedrobart_01/)
+
 [Linkedin](https://www.linkedin.com/in/pedrobart)
 
