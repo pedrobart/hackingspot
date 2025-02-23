@@ -1,8 +1,10 @@
 O SSH é um protocolo de rede encriptado que permite a gestão remota de sistemas, sobretudo de tipo Unix. É versátil e pode encapsular outros protocolos para fornecer encriptação adicional. Normalmente, os administradores autenticam-se via comando SSH utilizando as mesmas credenciais de acesso do sistema, o que se torna problemático quando a porta 22 está exposta, especialmente na Internet. Senhas fracas em contas conhecidas facilitam o sucesso de ataques de força bruta.
 
+***
 Neste cenário, simula-se um ataque de força bruta ao serviço SSH, onde o invasor consegue aceder e efetuar login com sucesso. 
 
 Serão aplicadas técnicas de deteção das tentativas de acesso e identificação do IP de origem do invasor.
+***
 
 
 **Instalação de openssh-server no ubuntu:**
@@ -39,6 +41,7 @@ Em cenários reais, estes ataques podem manifestar-se de forma ruidosa (milhares
 ![[Screenshot 2025-02-23 175106 1.png]]
 
 **Ataque realizado com sucesso:**
+
 ![[Screenshot 2025-02-23 175250.png]]
 
 
