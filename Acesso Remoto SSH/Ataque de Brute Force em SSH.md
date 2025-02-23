@@ -9,18 +9,20 @@ Serão aplicadas técnicas de deteção das tentativas de acesso e identificaç�
 
 **Instalação de openssh-server no ubuntu:**
 
+![[Screenshot 2025-02-23 172121 2.png]]
 
 
 **Após instalação, verificamos se o serviço está Ativo:**
 
-
+![[Screenshot 2025-02-23 172140 3.png]]
 
 **Executamos os seguintes comandos para iniciar o serviço:**
 
-
+![[Screenshot 2025-02-23 172204 2.png]]
 
 **Ativamos o serviço SSH para ligar automaticamente após a máquina fazer boot:**
 
+![[Screenshot 2025-02-23 172217 2.png]]
 
 
 Utilizei a ferramenta Hydra para realizar um ataque de força bruta no servidor, onde a presença de uma senha correta na lista permitiu o acesso bem-sucedido. As tentativas incorretas, geradas durante o ataque, foram registadas nos logs de autenticação, localizados em **/var/log/auth.log**. 
@@ -29,26 +31,26 @@ Em cenários reais, estes ataques podem manifestar-se de forma ruidosa (milhares
 
 **Ator malicioso:**
 
-
+![[Screenshot 2025-02-23 173945 2.png]]
 
 **Sistema vítima:**
 
-
+![[Screenshot 2025-02-23 174839 2.png]]
 
 
 **Iniciando o ataque de Brute Force:**
 
-
+![[Screenshot 2025-02-23 175106 2.png]]
 
 **Ataque realizado com sucesso:**
 
-
+![[Screenshot 2025-02-23 175250 1.png]]
 
 
 Utilizando o comando:
  **cat /var/log/auth.log | grep "Failed password"**
 
-
+![[Screenshot 2025-02-23 175809 1.png]]
 
 Foram registadas múltiplas tentativas de acesso a partir do IP **192.168.1.4**, com a maioria dos acessos falhados. Os registos de autenticação (localizados em **/var/log/auth.log**) fornecem informações forenses cruciais, nomeadamente:
 - **Timestamps**
@@ -59,14 +61,14 @@ Foram registadas múltiplas tentativas de acesso a partir do IP **192.168.1.4**,
 Após as várias tentativas falhadas, o log de autenticação regista entradas que comprovam que o atacante conseguiu, de facto, autenticar-se via SSH. Isto evidencia a eficácia do ataque de força bruta. Para extrair exclusivamente as entradas que correspondem a acessos SSH remotos bem-sucedidos, pode ser utilizado o comando:
 **cat /var/log/auth.log | grep "Accepted password"**
 
-
+![[Screenshot 2025-02-23 180217 1.png]]
 
 O ficheiro **/var/log/wtmp** regista, de forma cronológica, todos os eventos de login e logout do sistema, permitindo traçar uma linha do tempo dos acessos, incluindo sessões remotas. Este registo é de extrema importância para análises forenses e para equipas de SOC, pois fornece dados cruciais para identificar atividades suspeitas ou padrões de acesso.
 
 Devido à sua natureza binária, o **wtmp** não pode ser visualizado diretamente com comandos como o `cat`. Para ler o seu conteúdo, utiliza-se o utilitário **utmpdump**, que converte o ficheiro para um formato legível. Um exemplo de utilização é:
 **utmpdump /var/log/wtmp**
 
-
+![[Screenshot 2025-02-23 180745 2.png]]
 
 Este artefacto é essencial para determinar **se um invasor conseguiu sessão no sistema**, **quanto tempo permaneceu ativo** e **de onde realizou o acesso**, permitindo tomar decisões informadas para mitigação e resposta ao incidente.
 
