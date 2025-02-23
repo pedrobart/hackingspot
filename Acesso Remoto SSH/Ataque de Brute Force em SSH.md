@@ -33,9 +33,10 @@ Em cenários reais, estes ataques podem manifestar-se de forma ruidosa (milhares
 
 ![](../anexos/Screenshot%202025-02-23%20173945%203.png)
 
+
 **Sistema vítima:**
 
-![](../anexos/Screenshot%202025-02-23%20174839%203.png)
+![](../anexos/Screenshot%202025-02-23%20174839%204.png)
 
 
 **Iniciando o ataque de Brute Force:**
