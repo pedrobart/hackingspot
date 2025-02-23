@@ -6,15 +6,19 @@ Serão aplicadas técnicas de deteção das tentativas de acesso e identificaç�
 
 
 **Instalação de openssh-server no ubuntu:**
+
 ![[Screenshot 2025-02-23 172121 1.png]]
 
 **Após instalação, verificamos se o serviço está Ativo:**
+
 ![[Screenshot 2025-02-23 172140 2.png]]
 
 **Executamos os seguintes comandos para iniciar o serviço:**
+
 ![[Screenshot 2025-02-23 172204 1.png]]
 
 **Ativamos o serviço SSH para ligar automaticamente após a máquina fazer boot:**
+
 ![[Screenshot 2025-02-23 172217 1.png]]
 
 Utilizei a ferramenta Hydra para realizar um ataque de força bruta no servidor, onde a presença de uma senha correta na lista permitiu o acesso bem-sucedido. As tentativas incorretas, geradas durante o ataque, foram registadas nos logs de autenticação, localizados em **/var/log/auth.log**. 
@@ -22,13 +26,16 @@ Utilizei a ferramenta Hydra para realizar um ataque de força bruta no servidor,
 Em cenários reais, estes ataques podem manifestar-se de forma ruidosa (milhares de tentativas por minuto) ou furtiva (1 tentativa por minuto), sendo crucial a análise destes registos para a deteção e mitigação de intrusões.
 
 **Ator malicioso:**
+
 ![[Screenshot 2025-02-23 173945 1.png]]
 
 **Sistema vítima:**
+
 ![[Screenshot 2025-02-23 174839 1.png]]
 
 
 **Iniciando o ataque de Brute Force:**
+
 ![[Screenshot 2025-02-23 175106 1.png]]
 
 **Ataque realizado com sucesso:**
