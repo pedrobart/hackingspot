@@ -3,7 +3,7 @@ O SSH é um protocolo de rede encriptado que permite a gestão remota de sistema
 ***
 Neste cenário, simula-se um ataque de força bruta ao serviço SSH, onde o invasor consegue aceder e efetuar login com sucesso. 
 
-Serão aplicadas técnicas de deteção das tentativas de acesso e identificação do IP de origem do invasor.
+Serão aplicadas técnicas de deteção das tentativas de acesso e identificação do IP de origem do invasor...
 ***
 
 
