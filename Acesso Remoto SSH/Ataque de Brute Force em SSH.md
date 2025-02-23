@@ -9,13 +9,7 @@ Serão aplicadas técnicas de deteção das tentativas de acesso e identificaç�
 
 **Instalação de openssh-server no ubuntu:**
 
-![](hacking/anexos/Screenshot%202025-02-23%20172121%203.png)
-
-
-
-
-
-![[Screenshot 2025-02-23 172121 2.png]]
+![](hacking/anexos/Screenshot%202025-02-23%20172121%204.png)
 
 
 **Após instalação, verificamos se o serviço está Ativo:**
