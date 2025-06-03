@@ -50,3 +50,7 @@ set EnableStageEncoding true
 
 Agora só falta executar o `notepad.exe` na máquina alvo (Windows) para que a sessão Meterpreter seja iniciada. 
 
+
+
+
+## RESTANTE CONTEUDO EM DESENVOLVIMENTO
